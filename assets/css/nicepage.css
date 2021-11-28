@@ -4081,15 +4081,6 @@ hr {
   height: 0;
   overflow: visible;
 }
-button,
-input,
-optgroup,
-select,
-textarea {
-  color: inherit;
-  font: inherit;
-  margin: 0;
-}
 optgroup {
   font-weight: 700;
 }
@@ -5580,11 +5571,7 @@ a {
 .u-form-select-wrapper select[size] ~ .u-caret {
   display: none;
 }
-*,
-*:before,
-*:after {
-  box-sizing: border-box;
-}
+
 html {
   height: 100%;
   overflow-y: auto;
@@ -17579,41 +17566,7 @@ html {
 .u-body h6 {
   padding: 0;
 }
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  margin-top: 0;
-  margin-bottom: 0.5rem;
-  line-height: 1.2;
-  font-weight: 500;
-  color: inherit;
-}
-h1 {
-  font-size: 2.25rem;
-}
-h2 {
-  font-size: 1.5rem;
-}
-h3 {
-  font-size: 1.25rem;
-}
-h4 {
-  font-size: 1.25rem;
-}
-h5 {
-  font-size: 1.125rem;
-}
-h6 {
-  font-size: 1.125rem;
-}
-p {
-  margin-top: 0;
-  padding: 0;
-  margin-bottom: 0.5rem;
-}
+
 .u-uppercase {
   text-transform: uppercase;
 }
@@ -20560,20 +20513,7 @@ a.u-button-style.u-border-20 {
 .u-radius-50:not(.u-hover-box) > .u-container-layout {
   border-radius: 50px !important;
 }
-/*begin-variables font-family*/
-.u-body {
-  font-family: 'Open Sans',sans-serif;
-}
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  font-family: Roboto,sans-serif;
-}
-/*end-variables font-family*/
-/*begin-variables color*/
+
 .u-overlap.u-overlap-transparent .u-header,
 .u-image,
 .u-gradient {
@@ -34879,202 +34819,7 @@ a.u-button-style.u-button-style.active > .u-text-active-grey-90[class*="u-border
 a.u-link.u-text-hover-grey-90:hover {
   color: #1a1a1a !important;
 }
-/*end-variables colors*/
 
-/*begin-variables sitestylecss*/
-
-
-
-        
-
-        /** common-rules **/
-        h1.u-title
-        {
-        font-weight: 400;
-        font-size: 4.5rem;
-        line-height: 1.1;
-        margin-top: 20px;
-        margin-bottom: 20px;
-        }
-        h2.u-subtitle
-        {
-        font-weight: 400;
-        font-size: 2.25rem;
-        line-height: 1.1;
-        margin-top: 20px;
-        margin-bottom: 20px;
-        }
-        h1:not(.u-title)
-        {
-        font-weight: 400;
-        font-size: 3rem;
-        line-height: 1.1;
-        margin-top: 20px;
-        margin-bottom: 20px;
-        }
-        h2:not(.u-subtitle)
-        {
-        font-weight: 400;
-        font-size: 2.25rem;
-        line-height: 1.1;
-        margin-top: 20px;
-        margin-bottom: 20px;
-        }
-        h3
-        {
-        font-weight: 400;
-        font-size: 1.875rem;
-        line-height: 1.2;
-        margin-top: 20px;
-        margin-bottom: 20px;
-        }
-        h4
-        {
-        font-weight: 400;
-        font-size: 1.5rem;
-        line-height: 1.2;
-        margin-top: 20px;
-        margin-bottom: 20px;
-        }
-        h5
-        {
-        font-weight: 400;
-        font-size: 1.25rem;
-        line-height: 1.2;
-        margin-top: 20px;
-        margin-bottom: 20px;
-        }
-        h6
-        {
-        font-weight: 400;
-        font-size: 1.125rem;
-        line-height: 1.2;
-        margin-top: 20px;
-        margin-bottom: 20px;
-        }
-        p.u-large-text
-        {
-        font-size: 1.25rem;
-        margin-top: 20px;
-        margin-bottom: 20px;
-        }
-        p.u-small-text
-        {
-        font-size: 0.875rem;
-        margin-top: 20px;
-        margin-bottom: 20px;
-        }
-        p:not(.u-text-variant)
-        {
-        margin-top: 20px;
-        margin-bottom: 20px;
-        }
-        .u-btn
-        {
-        margin-top: 20px;
-        margin-bottom: 20px;
-        }
-        blockquote
-        {
-        font-style: italic;
-        padding-left: 20px;
-        border-width: 4px;
-        margin-top: 20px;
-        margin-bottom: 20px;
-        }
-        .u-metadata
-        {
-        margin-top: 20px;
-        margin-bottom: 20px;
-        }
-        ul:not(.u-unstyled)
-        {
-        margin-top: 20px;
-        margin-bottom: 20px;
-        }
-        ol
-        {
-        margin-top: 20px;
-        margin-bottom: 20px;
-        }
-        .u-post-content
-        {
-        margin-top: 20px;
-        margin-bottom: 20px;
-        }
-        /** common-rules **/
-
-        /** publish-rules **/
-        /*begin-media rules*/
-        @media (max-width: 767px) {
-        h1.u-title
-        {
-        font-size: 3.75rem;
-        }
-        }
-        @media (max-width: 575px) {
-        h1.u-title
-        {
-        font-size: 3rem;
-        }
-        }
-        @media (max-width: 575px) {
-        h2.u-subtitle
-        {
-        font-size: 1.5rem;
-        }
-        }
-        @media (max-width: 575px) {
-        h1:not(.u-title)
-        {
-        font-size: 1.875rem;
-        }
-        }
-        @media (max-width: 575px) {
-        h2:not(.u-subtitle)
-        {
-        font-size: 1.5rem;
-        }
-        }
-        @media (max-width: 575px) {
-        h3
-        {
-        font-size: 1.5rem;
-        }
-        }
-        /*end-media rules*/
-        /** publish-rules **/
-
-        
-
-        /** cms-rules **/
-        /*begin-responsive rules*/
-        .u-sm h1.u-title
-        {
-        font-size: 3.75rem;
-        }
-        .u-xs h1.u-title
-        {
-        font-size: 3rem;
-        }
-        .u-xs h2.u-subtitle
-        {
-        font-size: 1.5rem;
-        }
-        .u-xs h1:not(.u-title)
-        {
-        font-size: 1.875rem;
-        }
-        .u-xs h2:not(.u-subtitle)
-        {
-        font-size: 1.5rem;
-        }
-        .u-xs h3
-        {
-        font-size: 1.5rem;
-        }
-        /*end-responsive rules*/
-        /** cms-rules **/
 
         /** color-rules **/
         .u-overlap.u-overlap-transparent:not(.u-overlap-contrast) .u-header :not(.u-nav-item) > a,
@@ -35199,7 +34944,3 @@ a.u-link.u-text-hover-grey-90:hover {
     min-height: 36px;
   }
 }
-
- /*begin-variables base-font-size*/ 
- html { font-size: 16px; }
- /*end-variables base-font-size*/
