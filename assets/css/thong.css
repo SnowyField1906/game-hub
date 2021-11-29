@@ -1,0 +1,249 @@
+.u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, .55), rgba(0, 0, 0, .55)), url(../../images/theme1.jpg)
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 800px
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 6rem;
+  font-weight: 700;
+  margin: 222px auto 0
+}
+
+.u-section-1 .u-text-2 {
+  margin: 30px auto 0
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  text-transform: uppercase;
+  font-weight: 700;
+  margin: 49px auto 60px
+}
+
+@media (max-width:1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 660px
+  }
+}
+
+@media (max-width:991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 506px
+  }
+}
+
+@media (max-width:767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 380px
+  }
+}
+
+@media (max-width:575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 239px
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3.75rem
+  }
+}
+
+.u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, .55), rgba(0, 0, 0, .55)), url(../../images/theme1.jpg)
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 800px
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 6rem;
+  font-weight: 700;
+  margin: 222px auto 0
+}
+
+.u-section-1 .u-text-2 {
+  margin: 30px auto 0
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  text-transform: uppercase;
+  font-weight: 700;
+  margin: 49px auto 60px
+}
+
+@media (max-width:1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 660px
+  }
+}
+
+@media (max-width:991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 506px
+  }
+}
+
+@media (max-width:767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 380px
+  }
+}
+
+@media (max-width:575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 239px
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3.75rem
+  }
+}
+
+.u-btn {
+  display: table;
+  cursor: pointer;
+  color: inherit;
+  font-size: inherit;
+  font-family: inherit;
+  line-height: inherit;
+  letter-spacing: inherit;
+  text-transform: inherit;
+  font-style: inherit;
+  font-weight: inherit;
+  text-decoration: none;
+  border: 0 none transparent;
+  outline-width: 0;
+  background-color: transparent;
+  margin: 0;
+  -webkit-text-decoration-skip: objects;
+  font-style: initial;
+  white-space: nowrap;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  vertical-align: middle;
+  text-align: center;
+  padding: 10px 30px;
+  border-radius: 0;
+  align-self: flex-start
+}
+
+.u-post-content a, .u-text a {
+  font-size: inherit;
+  font-family: inherit;
+  line-height: inherit;
+  letter-spacing: inherit;
+  text-transform: inherit
+}
+
+.u-clearfix:after, .u-clearfix:before {
+  content: '';
+  display: table
+}
+
+.u-clearfix:after {
+  clear: both
+}
+
+.u-image {
+  object-fit: cover;
+  display: block;
+  background-size: cover;
+  background-position: 50% 50%;
+  background-repeat: no-repeat
+}
+
+img.u-image {
+  overflow: hidden
+}
+
+.u-image.u-image-tiles {
+  background-size: initial;
+  background-repeat: repeat;
+  background-position: top left !important
+}
+
+.u-sheet.u-image, section.u-image {
+  overflow: visible
+}
+
+.u-text .u-image {
+  display: inline-block
+}
+
+.u-post-content .u-image {
+  margin-bottom: .5rem
+}
+
+.u-sheet {
+  position: relative;
+  width: 1140px;
+  margin: 0 auto
+}
+
+@media (min-width:1200px) {
+  .u-sheet {
+    width: 1140px
+  }
+}
+
+@media (min-width:992px) and (max-width:1199px) {
+  .u-sheet {
+    width: 940px
+  }
+}
+
+@media (min-width:768px) and (max-width:991px) {
+  .u-sheet {
+    width: 720px
+  }
+}
+
+@media (min-width:576px) and (max-width:767px) {
+  .u-sheet {
+    width: 540px
+  }
+}
+
+@media (max-width:575px) {
+  .u-sheet {
+    width: 340px
+  }
+}
+
+.u-align-center {
+  text-align: center
+}
+
+.u-image {
+  color: #111
+}
+
+.u-shading {
+  color: #fff
+}
+
+.u-body {
+  color: #111;
+  background-color: #fff
+}
+
+.u-body.u-palette-2-base, .u-palette-2-base {
+  color: #fff;
+  background-color: #db545a
+}
+
+.u-button-style.u-palette-2-base, .u-button-style.u-palette-2-base[class*=u-border-] {
+  color: #fff !important;
+  background-color: #db545a !important
+}
+
+.u-button-style.u-button-style.u-palette-2-base:active, .u-button-style.u-button-style.u-palette-2-base[class*=u-border-]:active, .u-button-style.u-palette-2-base:focus, .u-button-style.u-palette-2-base:hover, .u-button-style.u-palette-2-base[class*=u-border-]:focus, .u-button-style.u-palette-2-base[class*=u-border-]:hover {
+  color: #fff !important;
+  background-color: #d63b42 !important
+}
