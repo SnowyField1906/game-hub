@@ -7,7 +7,7 @@
     - Ảnh bìa: 1153x326
     - Ảnh phụ: Các ảnh này sẽ được tìm theo yêu cầu của 2 nhóm HTML
 
-  - Thông tin (bảng bên phải **wikipedia** ):
+  - Thông tin (bảng bên phải **wikipedia**):
     - Nhà sản xuất
     - Thể loại
     - Ngày phát hành
@@ -30,8 +30,8 @@
 
 - Các ảnh tìm được sẽ phải upload lên folder _ **images** _ trong repo với tên theo quy định:
 
-  - Ảnh giới thiệu: <tên game ngắn gọn> + “\_thumbnail” (ví dụ: lmht\_thumbnail)
-  - Ảnh bìa: <tên game ngắn gọn> + “\_cover” (ví dụ: lmht\_cover)
+  - Ảnh giới thiệu: <tên game ngắn gọn> + “_thumbnail” (ví dụ: lmht_thumbnail)
+  - Ảnh bìa: <tên game ngắn gọn> + “_cover” (ví dụ: lmht_cover)
   - Ảnh phụ: <tên game ngắn gọn> + <số thứ tự> (ví dụ: lmht01)
 
 - Các ảnh tìm được sẽ phải upload lên folder _ **images** _ trong repo với định dạng cố định .jpg (có thể thay đổi đuôi định dạng trực tiếp trong **VSCode** )
@@ -50,7 +50,7 @@
 - Các yêu cầu bên nhóm **CSS**
 - Sáng tạo và thêm bớt sao cho các trang đẹp nhất, có quyền yêu cầu nhóm **TÌM KIẾM THÔNG TIN** tìm thêm ảnh/thông tin theo yêu cầu
 
-## 5. Nhóm **CSS** ( **Thông** , **Thuận**): Làm việc trên các file .css:
+## 5. Nhóm **CSS** (**Thông** , **Thuận**): Làm việc trên các file .css:
 -	Sáng tạo và thêm bớt sao cho các trang đẹp nhất
 -	Hỗ trợ chỉnh sửa các file .html
 
