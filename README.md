@@ -50,7 +50,7 @@
 - Các yêu cầu bên nhóm **CSS**
 - Sáng tạo và thêm bớt sao cho các trang đẹp nhất, có quyền yêu cầu nhóm **TÌM KIẾM THÔNG TIN** tìm thêm ảnh/thông tin theo yêu cầu
 
-## 5. Nhóm **CSS** (**Thông** , **Thuận**): Làm việc trên các file .css:
+## 5. Nhóm **CSS** (**Thông**, **Thuận**): Làm việc trên các file .css:
 -	Sáng tạo và thêm bớt sao cho các trang đẹp nhất
 -	Hỗ trợ chỉnh sửa các file .html
 
