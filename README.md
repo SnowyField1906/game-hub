@@ -68,7 +68,7 @@
 - Link repo: [https://github.com/SnowyField1906/project1\_template/](https://github.com/SnowyField1906/project1%20_template/)
 - Link web: [https://snowyfield1906.github.io/project1\_template/](https://snowyfield1906.github.io/project1_template/)
 
-1. Link repo ma cho những ai cần học hay luyện html/các lệnh git:
+8. Link repo ma cho những ai cần học hay luyện html/các lệnh git:
 
 - Link repo: [https://github.com/SnowyField1906/project1\_new/](https://github.com/SnowyField1906/project1_new/)
 - Link web: [https://snowyfield1906.github.io/project1\_new/](https://snowyfield1906.github.io/project1_new/)
