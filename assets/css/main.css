@@ -157,7 +157,7 @@ input, select, textarea {
 	}
 
 	p {
-		margin: 0 0 2em 0;
+		margin: 0 0 .75em 0;
 	}
 
 	h1 {
@@ -194,7 +194,7 @@ input, select, textarea {
 		line-height: 1.5;
 		margin: 0 0 2em 0;
 		text-transform: uppercase;
-		letter-spacing: 0.35em;
+		letter-spacing: 0.3em;
 	}
 
 		h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -239,6 +239,20 @@ input, select, textarea {
 			font-size: 0.8em;
 		}
 
+	}
+
+	.game_title {
+		margin-left: 2em;
+		font-size: 3em;
+	}
+	.game_sub_title {
+		margin: 2em 0em 2em 2em;
+	}
+	.subject {
+		margin: 1.75em 0em 1em 3em;
+	}
+	p {
+		text-indent: 1.5em
 	}
 
 	sub {
@@ -2372,8 +2386,8 @@ input, select, textarea {
 	}
 
 	table {
-		margin: 0 0 2em 0;
-		width: 100%;
+		margin: 0 0 2em 1.5em;
+		width: 97%;
 	}
 
 		table tbody tr {
@@ -2832,7 +2846,7 @@ input, select, textarea {
 			color: inherit;
 			font-weight: 900;
 			letter-spacing: 0.35em;
-			margin-bottom: 5em;
+			margin-bottom: 4em;
 			text-decoration: none;
 			text-transform: uppercase;
 			display: inline-block;
