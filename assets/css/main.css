@@ -249,7 +249,7 @@ input, select, textarea {
 		margin: 2em 0em 2em 2em;
 	}
 	.subject {
-		margin: 1.75em 0em 1em 2em;
+		margin: 1.75em 0em 1em 3em;
 	}
 	p {
 		text-indent: 1.5em
@@ -2386,8 +2386,8 @@ input, select, textarea {
 	}
 
 	table {
-		margin: 0 0 2em 0;
-		width: 100%;
+		margin: 0 0 2em 1.5em;
+		width: 97%;
 	}
 
 		table tbody tr {
