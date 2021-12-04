@@ -1,0 +1,37 @@
+-nhà phát hành và phát triển: zlongGames
+-thể loại: nhập vai, phiêu lưu, đi cảnh
+-nền tảng: android, iOS, windows
+
+---
+
+-thumnail: Là một khoản game mobile mới về một thế giới mạo hiểm lãng mạn rộng lớn, Laplace M lấy bối cảnh ma pháp thời Trung cổ, với sự tham gia của nhà chế tác âm nhạc Motoi Sakuraba, người phụ trách phần phối âm cho game.
+
+[Đặc sắc trong game]
+
+☆ Mạo hiểm ly kỳ lãng mạn
+♔ Khi người chơi lần đầu vào game sẽ nhìn ngắm được cả thế giới, chúng tôi gọi thế giới đó là Laplace. Tai họa ập đến, chiến binh có hy vọng trở thành Dũng Sĩ Thiên Khởi chính là bạn. Có thể lựa chọn hóa thân thành bất kỳ nghề nghiệp nào như Chiến Sĩ, Pháp Sư, Mục Sư, Thích Khách, mang trên vai ước mơ của thôn làng mà xuất phát lên đường, bảo vệ đồng đội bằng lá chắn Thánh Quang, hạ gục Ma Vương nhận trang bị hiếm.
+♔ Và, kết giao không ngừng với bằng hữu trong game, cùng bạn bè mạo hiểm lãng mạn trong thế giới tràn ngập tình yêu này!
+
+☆ Quyết đấu thẻ bài - Triệu hoán pet yêu
+♔ Tại Laplace M, nhiều pet dễ thương mang năng lực ma pháp sẽ cùng con người kề vai sát cánh, sinh sống hòa bình.
+♔ Các bé pet thường bị phong ấn trong những tấm thẻ gọi là “Thẻ hồn”, khảm Thẻ Hồn lên các trang bị khác nhau trên người sẽ nâng cao lượng lớn lực chiến của nhân vật, và sẽ phổ cho người chơi khả năng biến hình, từ đó phát huy hiệu quả của thẻ, triệu hoán pet trong thẻ cùng chủ nhân là bạn kề vai chiến đấu!
+
+☆ Xây dựng Vườn Nhà - Kết giao bạn mới
+♔ Ở đây, bạn có thể hẹn hò, nắm tay, tổ chức đám cưới lãng mạn với người mình thích; Còn có thể trồng lúa, nuôi gia súc gia cầm, nấu nướng, sản xuất món ăn, trở thành chủ nhân của Gia Viên giàu có.
+♔ Bạn bè thăm thú, giúp đỡ lần nhau, bán những sản phẩm món ngon cho khách thăm vườn!
+♔ Trò chuyện online thoải mái cùng bạn bè thông qua hệ thống ngữ âm được thiết kế trong game, ngoài cách này, bạn còn có thể chia sẻ tâm trạng bằng cách Chụp ảnh. Tặng và nhận quà tặng từ bạn bè, để lại lời nhắn và nhấp Like!
+
+☆ Tạo hình dễ thương - Do bạn quyết định
+♔ Với hệ thống avatar phong phú, bạn có thể tự do phối hợp thời trang cài tóc, túi, trang phục, vũ khí v.v để mừng lễ tết hoặc chỉ đơn gian là theo tâm trạng, thiết kế ngoại hình nhân vật theo phong cách rất riêng của bạn!
+♔ Váy xinh xắn, đồng phục bé lớp bên, và còn các kiểu trang phục hầu gái, trang phục thủy thủ để bạn mặc sức sưu tầm. Đến cả hoa tai, đồ lặt vặt đều có thể trở thành vật liệu may thành trang sức dễ thương, sáng tạo nên một phong cách đầy khác biệt dành riêng cho bạn.
+♔Ngay lúc này, hãy dẫn đầu làng mốt thời trang của Laplace!
+
+---
+[chinh sua lai gioi thieu, them vai muc nuanua]
+---
+
+-web: https://laplacem.vtcgame.vn/
+-dowload: 
+	+Androi: https://play.google.com/store/apps/details?id=com.zlongame.vi.fzdl
+	+iOS: https://apps.apple.com/vn/app/laplace-m-v%C3%B9ng-%C4%91%E1%BA%A5t-gi%C3%B3/id1463350382
+	+PC version: https://laplacem.vtcgame.vn/

@@ -1,0 +1,24 @@
+Thumbnail
+Một trò chơi đấu trường trận chiến trực tuyến nhiều người chơi do Timi Studio phát triển
+Giới thiệu
+Lối chơi tổng thể của Liên Quân Mobile tương tự như các trò chơi thuộc thể loại MOBA khác đang có mặt trên thị trường. Người chơi điều khiển các nhân vật, được gọi là "tướng" và mỗi tướng này có những khả năng riêng. Người chơi đặt mục tiêu phá hủy các trụ của đối phương trên bản đồ, đội giành chiến thắng chính là đội phá hủy được nhà chính đối phương.
+Lối chơi
+Giao diện lối chơi là các thao tác đơn giản, bên tay trái con trỏ là điều khiển bản đồ, di chuyển tướng, bên tay phải là nút "Tấn công" và ba ô chiêu thức. Ở góc trên là cửa hàng trang bị, tay phải là trò chuyện, ra dấu hiệu. Những vị tướng được chia làm sáu loại là: Sát thủ, Xạ thủ, Đấu sĩ, Trợ thủ, Đỡ đòn và Pháp sư. Mỗi tướng đều có đặc điểm khác nhau đòi hỏi người chơi phải có chiến thuật khác nhau. Khi đánh bại tướng, người chơi sẽ nhận được vàng và kinh nghiệm.
+Lối chơi Liên Quân Mobile tương tự với nhiều tựa game MOBA, đề cao tinh thần đồng đội chiến đấu cùng nhau trong game. Ngoài quy chuẩn chung, lối chơi còn phụ thuộc vào tính cách, sở thích của các game thủ.
+Có 3 đường chính trong game: Dark Slayer Lane (Đường Tà thần Ceasar/Top), Middle Lane (Đường Giữa/Mid), Abyssal Dragon Lane (Đường Rồng/Bot) cùng hai cánh rừng mỗi đội. Hai cánh rừng phân chia bởi đường sông giữa bản đồ chạy dọc từ Dark Slayer Lane xuống Abyssal Dragon Lane. Lối chơi sẽ phụ thuộc vào bản đồ khi phải phân chia người chơi tấn công cố thủ các đường này. Có một người chơi đảm nhiệm vai trò đi rừng, hỗ trợ những người đi đường khác, kiểm soát các mục tiêu lớn (Rồng hắc ám Kraydus/ Rồng bạo chúa Kraydus, Tà thần Caesar) để đem về lợi thế cho team.
+Đội giành chiến thắng chung cuộc chính là đội phá hủy được nhà chính đối phương. Trên các đường sẽ có nhiều trụ bảo vệ, người chơi cần phá hủy hết các công trình này (hoặc phá hủy hết công trình của một đường) trước khi phá hủy nhà chính.
+Thông tin
+Nhà phát triển: Timi - J6 Studio, Tencent Games
+Nền tảng: Android, iOS, Nintendo Switch
+Ngày phát hành: 14/10/2016
+Thể loại: Trò chơi di động MOBA 5v5
+Chế độ: Đấu trường trận chiến trực tuyến nhiều người chơi (MOBA)
+Link
+-Wiki: https://vi.wikipedia.org/wiki/Li%C3%AAn_Qu%C3%A2n
+-Trang chủ: https://lienquan.garena.vn/
+-Download:
+Android: https://play.google.com/store/apps/details?id=com.garena.game.kgvn&referrer=af_tranid%3DSD0Fw-0KGI6Q4lE3mdIVbA%26pid%3DOrganicA%26c%3Dobt_lp_and%26af_web_id%3De03e54f5-2ac0-4d31-a733-a536457b74e0-c
+iOS: https://apps.apple.com/VN/app/id1150288115?mt=8
+Nintendo Switch: 
+https://www.nintendo.com/games/detail/arena-of-valor-switch/
+

@@ -1,0 +1,26 @@
+Thumbnail
+Một trò chơi endless-run được phát triển trên nền tảng di động bởi Kiloo và SYBO Games
+Giới thiệu
+Trong game, người chơi sẽ nhập vai vào những thanh thiếu niên đầy tinh nghịch hàng ngày sơn graffiti trộm lên các toa tàu, khi bị phát hiện, chúng chạy trên những đường ray để thoát khỏi sự truy đuổi của viên thanh tra và con chó của ông ấy. Khi chạy, người chơi có thể điều khiển nhân vật nhặt tiền vàng, chìa khóa, các vật phẩm tăng sức mạnh và các phần thưởng khác trên đường ray. Đồng thời giúp nhân vật tránh xa các chướng ngại vật trên đường đi, trò chơi chỉ kết thúc khi nhân vật bị bắt bởi viên thanh tra hoặc cả hai đều bị cán bởi toa tàu.
+Cách chơi
+Trò chơi bắt đầu bằng cách chạm vào màn hình cảm ứng, khi nhân vật phun graffiti trên tàu điện, và sau đó bị thanh tra và con chó của ông ấy đuổi bắt. Trong khi chạy, người chơi có thể vuốt lên, xuống, sang trái hoặc phải để tránh đâm vào các chướng ngại vật đang tới. Khi trò chơi kết thúc, người chơi có thể sử dụng Chìa khóa để cứu nhân vật và tiếp tục chạy. Người chơi có thể thu thập các vật phẩm khác nhau như tiền xu, chìa khóa, nhân đôi điểm, giày bật siêu cao, túi phản lực, nam châm, hộp bí ẩn và gậy nhún. Jumper trợ lực cung cấp khả năng đốt cháy bằng cách tung nhân vật lên, trong khi jetpack có khả năng bay, nam châm đồng xu hút tất cả các đồng xu trên đường đua, siêu giày thể thao mang lại khả năng nhảy cao hơn và hệ số nhân điểm. Ngoài ra còn có thêm ván trượt giúp bảo vệ người chơi trong 30 giây và mang lại những sức mạnh đã được tích hợp sẵn.
+Thông tin
+Nhà phát triển: Kiloo, SYBO Games
+Nền tảng: iOS, macOS, Android, Microsoft Windows, Windows 10 Mobile, Windows Phone 8, Kindle
+Ngày phát hành: 24/12/2012
+Thể loại: Endless Run
+Chế độ: Chơi đơn
+Link
+-Wiki: https://vi.wikipedia.org/wiki/Subway_Surfers
+-Trang chủ: https://subwaysurfers.com/
+-Download:
+Android: https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1
+iOS: https://apps.apple.com/dk/app/subway-surfers/id512939461
+MacOs, Microsoft Windows: https://pcmac.download/vn/app/512939461/subway-surfers
+Windows 10 Mobile: 
+https://www.microsoft.com/vi-vn/p/subway-surfers/9wzdncrfhz73?activetab=pivot:overviewtab
+Windows Phone 8: https://download.com.vn/subway-surfers-for-windows-phone-81168
+Kindle: http://app4smart.com/en/phone/amazon-kindle-fire/games/549-subway-surfers.html
+
+
+

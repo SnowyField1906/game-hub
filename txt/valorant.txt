@@ -1,0 +1,21 @@
+Thumbnail
+Một tựa game bắn súng góc nhìn thứ nhất  được Riot Games phát triển và phát hành
+Giới thiệu
+Valorant là một game bắn súng chiến thuật online theo đội 5 vs 5 và là game FPS lấy bối cảnh trong một tương lai gần. Người chơi điều khiển các Agent đến từ rất nhiều quốc gia và nền văn hóa trên thế giới với các đặc tính riêng biệt
+Điểm khác biệt lớn nhất của Valorant so với những tựa game FPS cùng thể loại, là dù cho giao tranh vẫn được định đoạt bằng những pha đấu súng thông thường, nhưng các nhân vật trong game đều sở hữu những bộ kỹ năng đặc trưng. Khả năng sử dụng những nguyên tố tự nhiên kết hợp với các loại vũ khí.
+Lối chơi
+Trong chế độ chính mỗi đội có năm người chơi sẽ lựa chọn những Agent có các kỹ năng độc nhất, sao cho phù hợp với bản đồ thi đấu và chiến thuật cho đội. Hai đội được chia làm hai phe: phe Tấn Công hoặc phe Phòng Thủ. Người chơi sử dụng tiền tệ có trong mỗi ván để nạp kỹ năng và mua giáp cho bản thân, đồng thời mua và trao đổi vũ khí với đồng đội. Một quả bom hẹn giờ được gọi là Spike dành cho phe Tấn Công, việc họ cần làm là trong vòng 100 giây phải đặt nó ở một trong các khu đặt Spike của bản đồ hoặc tiêu diệt hết phe Phòng Thủ. Nếu phe Tấn Công tiêu diệt hết phe Phòng Thủ hoặc bảo vệ thành công Spike và cho nó phát nổ, phe Tấn Công thắng ván đấu. Nếu phe Phòng Thủ gỡ thành công Spike trong vòng 45 giây sau khi Spike được đặt hoặc sau khi hết 100 giây mà phe Tấn Công chưa đặt Spike nhưng phe Phòng Thủ vẫn còn người, phe Phòng Thủ sẽ thắng ván đấu.
+Thông tin
+Nhà phát triển: Riot Games
+Nền tảng: Microsoft Windows
+Ngày phát hành: 02/06/2020 (Toàn cầu), 06/04/2021 (Việt Nam)
+Thể loại: Bắn súng góc nhìn thứ nhất
+Chế độ: Chơi mạng
+Link
+Wiki: https://vi.wikipedia.org/wiki/Valorant
+ trang web chính thức: https://playvalorant.com/vi-vn/
+download: https://valorant.zing.vn/vi-vn/download
+
+
+
+

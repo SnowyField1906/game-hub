@@ -1,0 +1,21 @@
+-nhà phát hành và phát triển: Nexelon
+-thể loại: indie, phiêu lưu, câu cá.
+-nền tảng: android, iOS
+
+---
+
+-thumnail:	Fishing is to Heal your heart.
+		Don't worry. It will be ok!
+
+-giới thiệu: Mở đầu tựa game Fishing and Life là một chàng trai đang ở giữa những áp lực từ công việc. Anh trở về nhà sau một ngày tồi tệ, ôm đầu ngồi trên giường. Chợt anh nhìn thấy tấm ảnh đặt trên tủ: Hình ảnh anh và cha cùng nhau câu cá ngày còn bé. Anh chàng quyết định vứt bỏ tất cả, về một miền quê câu cá.
+Nếu bạn đã từng thử qua trò chơi Alto’s Adventure hay Alto’s Odyssey của Noodlecake Studios và yêu thích sự yên bình từ chúng thì có lẽ bạn cũng sẽ tìm được cảm giác tương tự với Fishing and Life. Đồ họa của những tựa game này có phong cách khá giống nhau: đơn giản nhưng cuốn hút. Những gam màu cùng nhiều sắc độ đậm nhạt được kết hợp với nhau, tạo thành một bức tranh thiên nhiên đẹp đẽ: khi nền trời xanh thì mặt biển cũng xanh thẫm, khi trời rực đỏ ánh hoàng hôn thì mặt biển cũng phớt vàng. Nhân vật ngồi trên một chiếc thuyền nhỏ, xa xa là ngọn hải đăng và những dãy núi màu nhạt, khiến cho khung cảnh không bị “phẳng lì” mà có chiều sâu, có sự xa gần.
+Khung cảnh đã yên bình, âm thanh lại càng khiến người ta dễ chịu hơn. Nhạc nền êm dịu, những thanh âm trong trẻo dễ làm người ta liên tưởng đến một buổi sớm trên biển. Thỉnh thoảng xen vào là tiếng chim gù từ xa vọng lại, tiếng cá đớp mồi cùng tiếng sóng vỗ. Tất cả giúp người chơi có một trải nghiệm chân thực về một cuộc câu cá thư giãn.
+
+
+---
+
+-fandom: https://fishing-life.fandom.com/wiki/Fishing_%26_life_Wiki
+-link dowload: 
+	+androi: https://play.google.com/store/apps/details?id=com.nexelon.fishinglife
+	+appstore: https://apps.apple.com/us/app/fishing-and-life/id1457176367
+	
