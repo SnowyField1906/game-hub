@@ -1,0 +1,25 @@
+Thumbnail: 
+Among Us là một trò chơi điện tử nhiều người chơi trực tuyến do Inner Sloth phát triển 
+Bối cảnh:
+Trò chơi lấy bối cảnh bên ngoài không gian vũ trụ, ở đó người chơi đóng một trong hai vai trò: đa số là các thành viên phi hành đoàn và một số ít là những kẻ giả mạo. Phi hành đoàn có mục tiêu tìm ra và loại bỏ kẻ giả mạo cũng như hoàn thành các nhiệm vụ xung quanh bản đồ, còn phe giả mạo có mục tiêu giết các thành viên phi hành đoàn mà không bị ai phát hiện
+Lối chơi: 
+Trò chơi cho phép 4 - 15 người cùng chơi với nhau. 1 đến 3 trong số đó được chọn ngẫu nhiên làm kẻ giả mạo và số còn lại là phi hành đoàn. Phe phi hành đoàn được giao các nhiệm vụ để thực hiện trên khắp bản đồ. Phe giả mạo thì được giao các nhiệm vụ giả để trà trộn vào phi hành đoàn, đồng thời có khả năng phá hoại hệ thống, di chuyển trong các đường ống, nhìn ra những kẻ giả mạo khác, và sát hại các thành viên trên phi thuyền.
+Phe phi hành đoàn giành chiến thắng khi hoàn thành xong tất cả các nhiệm vụ trước khi bị sát hại, hoặc khi tìm ra và loại bỏ hết các kẻ giả mạo trong những lần họp và bỏ phiếu. Phe giả mạo giành chiến thắng bằng cách giết các thành viên phi hành đoàn cho đến khi số người chơi của hai phe bằng nhau, hoặc khi hết thời gian đếm ngược của các hành động phá hoại hay sửa máy cung cấp oxi ở O2 hay ngăn chặn sự cố tàu hỏng. 
+Khi tìm thấy một thi thể, người chơi có thể báo động về việc này, khiến mọi hoạt động khác bị đình chỉ và bắt đầu một cuộc họp giữa các người chơi để thảo luận về việc ai là kẻ giả mạo dựa trên những bằng chứng xung quanh vụ sát hại. Nếu cuộc họp đạt được đa số phiếu bầu, người chơi đó sẽ bị ném khỏi bản đồ và chết. Người chơi cũng có thể yêu cầu một cuộc họp khẩn cấp bằng cách ấn một nút bấm vào bất cứ lúc nào.
+Thông tin
+Nhà phát hành: InnerSloth
+Nền tảng: Android, IOS, Microsoft Windows, Nintendo Switch
+Ngày phát hành: 15/06/2018
+Thể loại: trò chơi 2D
+Chế độ: nhiều người chơi
+Link
+Wiki: https://vi.wikipedia.org/wiki/Among_Us
+Trang web chính thức: https://www.innersloth.com/games/among-us/
+Download: 
+Android: https://play.google.com/store/apps/details?id=com.innersloth.spacemafia&hl=vi&gl=US
+iOS: https://apps.apple.com/us/app/among-us/id1351168404
+Microsoft Windows: 
+https://www.microsoft.com/vi-vn/p/among-us/9ng07qjnk38j?activetab=pivot:overviewtab
+Nitendo Switch: https://www.nintendo.com/games/detail/among-us-switch/
+Steam: https://store.steampowered.com/app/945360/Among_Us/
+

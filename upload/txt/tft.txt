@@ -1,0 +1,20 @@
+-nhà phát hành và phát triển: Riot Games
+-thể loại: Đấu trường tự động
+-nền tảng: Windows, macOS, android, iOS
+
+---
+
+-thumnail: Lấy cảm hứng từ autochess của dota, tft là một trò chơi chiến lược dựa vào đầu óc 9 phần, còn lại 91 phần phụ thuộc vào nhân phẩm ăn ở của bạn. Được phát triển bởi riot games
+-giới thiệu: Lựa chọn, dàn trận và nâng cấp các tướng Liên Minh Huyền Thoại yêu thích của bạn trong trận chiến sống còn này. Tàn phá với tộc Ác Quỷ, giao tranh bằng hệ Đấu Sĩ hay biến đổi khôn lường với hệ Hóa Hình, quyết định hoàn toàn thuộc về bạn.
+-cách chơi: Dựa trên Dota Auto Chess, trò chơi xoay quanh tám người chơi xây dựng các đội để chiến đấu với nhau và là người chơi cuối cùng đứng. Chiến trường bao gồm các hình lục giác, nơi người chơi có thể đặt các đơn vị một cách chiến lược vào các hình lục giác ở phía bên của họ trên bảng trò chơi giữa các hiệp đấu. Mỗi vòng, một trận chiến ngắn sẽ tự động bắt đầu, với hai người chơi được ghép ngẫu nhiên cho vòng đó, hoặc người khác được ghép đôi với kẻ thù do máy tính điều khiển. Trong các vòng đấu với kẻ thù do máy tính điều khiển, mỗi kẻ thù có cơ hội rơi ra vàng, đơn vị hoặc vật phẩm mà người chơi có thể sử dụng. Lượng máu mất đi do thua vòng được tính toán với sự kết hợp của sát thương đặt mỗi vòng và cách nhiều đơn vị đối thủ vẫn còn sống.
+
+---
+[kh giong gioi thieu, gioi thieu nen dua nguoi choi hieu ro ve game, lam them dai 1 chut nuanua]
+
+
+-link web: https://teamfighttactics.leagueoflegends.com/en-gb/
+-link dowload: 
+	+Windows/MAC: https://signup.euw.leagueoflegends.com/en/teamfight-tactics/signup/redownload?page_referrer=index
+	+androi: https://play.google.com/store/apps/details?id=com.riotgames.league.teamfighttacticsvn
+	+appstore: https://apps.apple.com/app/id1480616748?referrer=singular_click_id%3D420ec7bf-a247-4eb1-88e8-eba627669ccb
+	

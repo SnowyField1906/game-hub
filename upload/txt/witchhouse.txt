@@ -1,0 +1,22 @@
+Thumbnail
+Một tựa game giải đố miễn phí do Fummy phát triển và xuất bản
+Gameplay
+Trò chơi này là một trò chơi kinh dị sinh tồn, trong đó mục tiêu chính là vượt qua những cái bẫy do phù thủy tạo nên và thoát khỏi nhà của phù thủy. Nó chứa một bầu không khí rùng rợn, những câu đố phức tạp và những pha hù dọa bất ngờ. Trò chơi này được chơi từ chế độ góc nhìn từ trên xuống bằng đồ họa 16 bit trang trí công phu và được điều khiển qua bàn phím. 
+Một con mèo biết nói màu đen có thể được người chơi gặp ở nhiều nơi trong nhà. Người chơi có thể tương tác với con mèo để lưu game, và con mèo cũng đóng vai trò như là một người bạn đồng hành.
+Nội dung game
+Nhân vật chính của The Witch's House là Viola, một cô gái trẻ tỉnh dậy giữa rừng. Ngay sau đó cô đã phát hiện ra rằng lối thoát duy nhất của cô để thoát khỏi khu rừng bị chặn lại hoàn toàn bởi bụi hoa hồng. Lựa chọn duy nhất của cô là bước vào một ngôi nhà bí ẩn gần đó với hy vọng tìm được thứ giúp cô ấy rời khỏi khu rừng. Đi cùng với một con mèo đen, Viola phải cố gắng sống sót trong ngôi nhà bí ẩn và nguy hiểm.
+Trong khoảng thời gian Viola ở trong nhà, Viola gặp phải nhiều hiện tượng lạ, là kết quả của bản chất tự biến đổi cấu trúc của ngôi nhà. Cô cũng tìm thấy những trang nhật ký được viết bởi chủ của ngôi nhà, một phù thủy tên Ellen, kể chi tiết về quá khứ của phù thủy. Để tiến xa hơn vào ngôi nhà và tìm thấy vật giúp Viola rời khỏi khu rừng, Viola phải vượt qua những cạm bẫy khác nhau, mở khóa những cánh cửa trong nhà. Sau khi vượt qua nhiều cạm bẫy, giải quyết từng câu đố, Viola đã gặp được chủ nhân của ngôi nhà, nhưng trong hình dạng rất đáng sợ. Sau khi Viola đã thoát được ra khỏi nhà, có ba kết thúc chính khác nhau tùy thuộc vào hành động của người chơi.
+Thông tin
+Nhà phát hành: Fummy
+Công nghệ: RPG Maker VX, RPG Maker MV
+Nền tảng: Microsoft Windows, MacOS, Android
+Ngày phát hành: 3 tháng 10 năm 2012 (bản gốc) , 30 tháng 10 năm 2018 (bản MV)
+Chế độ: Chơi đơn
+Thể loại: Kinh dị sinh tồn Nhập vai
+Link
+Wiki: https://vi.wikipedia.org/wiki/The_Witch%27s_House
+Web: https://www.vgperson.com/games/witchhouse.htm
+Download: 
+Window: http://www.mediafire.com/file/jarg65dl8o1loiq/TheWitchsHouse108.zip/file
+Steam: https://store.steampowered.com/app/885810/The_Witchs_House_MV/
+android: https://play.google.com/store/apps/details?id=jp.co.goodroid.belle

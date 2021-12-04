@@ -1,0 +1,28 @@
+Thumbnail
+Một trò chơi điện tử hành động, sinh tồn, nhiều người chơi trực tuyến do Krafton Inc phát triển
+Giới thiệu
+PUBG là một trò chơi hành động trong đó tối đa một trăm người chơi chiến đấu trong một trận chiến hoàng gia, một loại trò chơi sống còn quy mô lớn nơi người chơi đấu tranh để được là người còn sống cuối cùng. Người chơi có thể chọn để chơi solo, hoặc tham gia một nhóm nhỏ tối đa bốn người. Trong cả hai trường hợp, người cuối cùng hoặc đội cuối cùng còn lại sẽ thắng trận đấu.
+Cách chơi
+Mỗi trận đấu bắt đầu với hàng loạt người chơi nhảy dù từ máy bay xuống khu vực bản đồ. Đường bay của máy bay trên bản đồ thay đổi theo từng vòng đấu, yêu cầu người chơi nhanh chóng xác định thời điểm tốt nhất để nhảy dù xuống mặt đất. Người chơi bắt đầu trò chơi mà không có thiết bị nào ngoại trừ việc lựa chọn quần áo, vốn không ảnh hưởng đến lối chơi. Một khi tiếp đất, người chơi có thể tìm kiếm các tòa nhà và các địa điểm khác để tìm kiếm vũ khí, xe cộ, áo giáp, quần áo và các thiết bị khác. Các vật phẩm này được phân bố theo chương trình trên bản đồ ở đầu trận đấu, với các khu vực có nguy cơ cao nhất thường có thiết bị tốt hơn. Giết một người chơi cho phép người bắn lấy toàn bộ vật phẩm trên người chơi bị giết. Người chơi có thể lựa chọn chơi theo góc nhìn thứ nhất hoặc thứ ba, mỗi góc nhìn đều có lợi thế và bất lợi riêng trong chiến đấu và nhận thức tình huống.
+Cứ vài phút một lần, khu vực có thể chơi được của bản đồ bắt đầu bị thu hẹp về một vị trí ngẫu nhiên, với bất kỳ người chơi nào đang ở ngoài khu vực an toàn sẽ bị mất máu tăng dần và cuối cùng sẽ bị loại khỏi trò chơi nếu người chơi không kịp chạy tới khu vực an toàn kịp thời gian quy định. Điều này khiến khu vực chơi nhỏ dần và ép buộc người chơi phải đụng độ với nhau. Trong quá trình của trận đấu, các vùng ngẫu nhiên của bản đồ được đánh dấu màu đỏ và bị đánh bom, gây ra mối đe dọa cho người chơi ở trong khu vực đó. Một cách ngẫu nhiên, một chiếc máy bay sẽ bay qua nhiều phần khác nhau của bản đồ còn có thể chơi được và thả một gói đồ phần thưởng, chứa đựng những đồ vật thông thường không thể có được trong quá trình chơi game bình thường. Những gói đồ này phát ra khói đỏ rất rõ ràng, thu hút người chơi quan tâm ở gần nó và tạo ra thêm nhiều cuộc đụng độ. 
+Thông tin
+Nhà phát triển: KRAFTON Corporation
+Nền tảng: Microsoft Windows, Android, iOS, Xbox One, PlayStation 4, Stadia
+Ngày phát hành: 23/3/2017
+Thể loại: Chiến đấu sinh tồn (Battle royale)
+Chế độ: Multiplayer
+Link
+-Wiki: https://vi.wikipedia.org/wiki/PlayerUnknown%27s_Battlegrounds
+-Trang chủ bản PC: https://asia.battlegrounds.pubg.com/vi/
+-Trang chủ bản Mobile: https://pubgm.zing.vn/
+-Download:
+Android: https://play.google.com/store/apps/details?id=com.vng.pubgmobile
+iOS: https://apps.apple.com/vn/app/pubg-mobile-vn/id1438396625
+Microsoft Windows: https://store.steampowered.com/app/578080/PUBG_BATTLEGROUNDS/
+Xbox One: https://www.xbox.com/en-US/games/playerunknowns-battlegrounds
+PlayStation 4: https://www.playstation.com/en-vn/games/playerunknowns-battlegrounds/
+Stadia: https://stadia.google.com/player/a4c5eb3f4e614b7fadbba64cba68f849rcp1?fallback_sku=480a6d783c834b9faa5c995f69b49431&link_id=-3501664147852705644
+
+
+
+
