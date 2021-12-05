@@ -254,6 +254,10 @@ input, select, textarea {
 	p {
 		text-indent: 1.5em
 	}
+	.center {
+		text-align: center;
+	}
+
 
 	sub {
 		font-size: 0.8em;
@@ -2340,13 +2344,13 @@ input, select, textarea {
 
 		.image.left {
 			float: left;
-			padding: 0 1.5em 1em 0;
+			padding: 0 5em 1em 0;
 			top: 0.25em;
 		}
 
 		.image.right {
 			float: right;
-			padding: 0 0 1em 1.5em;
+			padding: 0 0 1em 5em;
 			top: 0.25em;
 		}
 
@@ -2580,7 +2584,7 @@ input, select, textarea {
 		-webkit-flex-wrap: wrap;
 		-ms-flex-wrap: wrap;
 		flex-wrap: wrap;
-		postiion: relative;
+		position: relative;
 		margin: -2.5em 0 0 -2.5em;
 	}
 
