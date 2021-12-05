@@ -487,5 +487,9 @@
     
     .gallery,
     .gallery-item {
-        margin: 10px;
+        margin: 12px;
+    }
+    
+    .bg {
+        background-color: rgb(212, 219, 221);
     }
