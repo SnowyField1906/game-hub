@@ -1,97 +1,622 @@
-<!DOCTYPE html>
+<!DOCTYPE HTML>
+
 <html>
+
 <head>
-        <title>Chợ game - Các thể loại game</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="../assets/css/main.css" />
-		<noscript><link rel="stylesheet" href="../assets/css/noscript.css" /></noscript>
-    <link rel="icon" sizes="192x192" href="https://static.wixstatic.com/media/eece69_11054ee7ef7d417ca00757e37691df76%7Emv2_d_3000_3000_s_4_2.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/eece69_11054ee7ef7d417ca00757e37691df76%7Emv2_d_3000_3000_s_4_2.png">
-    <link rel="shortcut icon" href="https://static.wixstatic.com/media/eece69_11054ee7ef7d417ca00757e37691df76%7Emv2_d_3000_3000_s_4_2.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/eece69_11054ee7ef7d417ca00757e37691df76%7Emv2_d_3000_3000_s_4_2.png" type="image/png"/>
-    <link rel="apple-touch-icon" href="https://static.wixstatic.com/media/eece69_11054ee7ef7d417ca00757e37691df76%7Emv2_d_3000_3000_s_4_2.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/eece69_11054ee7ef7d417ca00757e37691df76%7Emv2_d_3000_3000_s_4_2.png" type="image/png"/>
+    <title>GameHub</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <link rel="stylesheet" href="../assets/css/main.css" />
+    <noscript><link rel="stylesheet" href="../assets/css/noscript.css" /></noscript>
+    <link rel="stylesheet" href="../assets/css/test.css" media="screen">
+    <script class="u-script" type="text/javascript" src="../assets/js/test.js" defer=""></script>
+      <link rel="icon" sizes="192x192" href="./../images/logo.svg">
+    <link rel="shortcut icon" href="./../images/logo.svg" type="image/png"/>
+    <link rel="apple-touch-icon" href="./../images/logo.svg" type="image/png"/>
 </head>
-    
 
-<body class="is-preload">
-       <div id="wrapper">
-              <header id="header">
-                     <div class="inner">
-                          <a href="../index.html" class="logo">
-                              <span class="symbol"><img src="../images/logo.svg" alt="" /></span><span class="title"><font size = +2> GameHub </font size></span>
-                          </a>
-        <!-- Nav -->
-              <nav>
-                  <ul>
-                     <li><a href="#menu">Menu</a></li>
-                  </ul>
-              </nav>
-                    <p>Chọn thể loại mà bạn cần tìm bên dưới,chúng tôi sẽ gợi ý cho bạn một vài game thú vị nhé !</p>
-                   &emsp; 
-                   &emsp;
+<body>
+    <section class="bg">
+        <div>
+            <br>
+            <h3 id="genres"> &nbsp; Lọc theo thể loại: </h3>
+            <div class="gallery">
+                <div href="#main" class="gallery-item">
+                    <a href="#18">
+                        <img href="#main" class="gallery-image" src="../images/genres/18.png">
+                    </a>
+                </div>
 
+                <div class="gallery-item">
+                    <a href="#2d">
+                        <img class="gallery-image" src="../images/genres/2d.png">
+                    </a>
+                </div>
+
+                <div class="gallery-item">
+                    <a href="#music">
+                        <img class="gallery-image" src="../images/genres/music.png">
+                    </a>
+                </div>
+
+                <div class="gallery-item">
+                    <a href="#fps">
+                        <img class="gallery-image" src="../images/genres/fps.png">
+                    </a>
+                </div>
+
+                <div class="gallery-item">
+                    <a href="#autobattler">
+                        <img class="gallery-image" src="../images/genres/autobattler.png">
+                    </a>
+                </div>
+
+                <div class="gallery-item">
+                    <a href="#platform">
+                        <img class="gallery-image" src="../images/genres/platform.png">
+                    </a>
+                </div>
+
+                <div class="gallery-item">
+                    <a href="#endlessrun">
+                        <img class="gallery-image" src="../images/genres/endlessrun.png">
+                    </a>
+                </div>
+
+                <div class="gallery-item">
+                    <a href="#puzzle">
+                        <img class="gallery-image" src="../images/genres/puzzle.png">
+                    </a>
+                </div>
+
+                <div class="gallery-item">
+                    <a href="#has">
+                        <img class="gallery-image" src="../images/genres/has.png">
+                    </a>
+                </div>
+
+                <div class="gallery-item">
+                    <a href="#action">
+                        <img class="gallery-image" src="../images/genres/action.png">
+                    </a>
+                </div>
+
+                <div class="gallery-item">
+                    <a href="#indie">
+                        <img class="gallery-image" src="../images/genres/indie.png">
+                    </a>
+                </div>
+
+                <div class="gallery-item">
+                    <a href="#horror">
+                        <img class="gallery-image" src="../images/genres/horror.png">
+                    </a>
+                </div>
+
+                <div class="gallery-item">
+                    <a href="#moba">
+                        <img class="gallery-image" src="../images/genres/moba.png">
+                    </a>
+                </div>
+
+                <div class="gallery-item">
+                    <a href="#rpg">
+                        <img class="gallery-image" src="../images/genres/rpg.png">
+                    </a>
+                </div>
                 
-                   
-              </header>
-              
+                <div class="gallery-item">
+                    <a href="#adventure">
+                        <img class="gallery-image" src="../images/genres/adventure.png">
+                    </a>
+                </div>
+
+                <div class="gallery-item">
+                    <a href="#survival">
+                        <img class="gallery-image" src="../images/genres/survival.png">
+                    </a>
+                </div>
+
+                <div class="gallery-item">
+                    <a href="#card">
+                        <img class="gallery-image" src="../images/genres/card.png">
+                    </a>
+                </div>
+
+                <div class="gallery-item">
+                    <a href="#sport">
+                        <img class="gallery-image" src="../images/genres/sport.png">
+                    </a>
+                </div>
+
+                <div class="gallery-item">
+                    <a href="#fashion">
+                        <img class="gallery-image" src="../images/genres/fashion.png">
+                    </a>
+                </div>
+
+            </div>
+
+        </div>
+    </section>
+
+    <!-- Wrapper -->
+    <div id="wrapper">
+
+        <!-- Header -->
+        <header id="header">
+            <div class="inner">
+                <!-- Logo -->
+                <a href="index.html" class="logo">
+                    <span class="symbol"><img src="../images/logo.svg" alt="" /></span><span class="title"><font size = +2> Trang chủ </font size></span>
+                </a>
+                <!-- Nav -->
+                <nav>
+                    <ul>
+                        <li><a href="#menu">Menu</a></li>
+                    </ul>
+                </nav>
+
+            </div>
+        </header>
+
         <!-- Menu -->
-              <nav id="menu">
-                   <h2>Menu</h2>
-                  <ul>
-                       <li><a href="../index.html">Trang chủ</a></li>
-                       <li><a href="../menu/genres.html">Các thể loại</a></li>
-                       <li><a href="../menu/upload.html">Tải lên</a></li>
-                       <li><a href="../menu/about.html">Thông tin</a></li>
-                       <li><a href="../menu/contact.html">Liên hệ</a></li>
-                       <li><a href="../menu/donate.html">Donate</a></li>
-                  </ul>
-              </nav>
+        <nav id="menu">
+            <h2>MENU</h2>
+            <ul>
+                <li><a href="../index.html">Trang chủ</a></li>
+                <li><a href="../menu/genres.html">Các thể loại</a></li>
+                <li><a href="../menu/upload.html">Tải lên</a></li>
+                <li><a href="../menu/about.html">Thông tin</a></li>
+                <li><a href="../menu/contact.html">Liên hệ</a></li>
+                <li><a href="../menu/donate.html">Donate</a></li>
+            </ul>
+        </nav>
+        <div>
+            <div class="inner">
 
-              <!--fOOTER-->
-              <footer id="footer">
-                     <div class="inner">
-                         <section>
-                             <h2>Phản hồi</h2>
-                             <form method="post" action="#">
-                                 <div class="fields">
-                                     <div class="field half">
-                                         <input type="text" name="name" id="name" placeholder="Tên" />
-                                     </div>
-                                     <div class="field half">
-                                         <input type="email" name="email" id="email" placeholder="Email" />
-                                     </div>
-                                     <div class="field">
-                                         <textarea name="message" id="message" placeholder="Lời nhắn"></textarea>
-                                     </div>
-                                 </div>
-                                 <ul class="actions">
-                                     <li><a href="../menu/donate.html"></a><input type="submit" value="Gửi" class="primary" /></li>
-                                 </ul>
-                             </form>
-                         </section>
-                         <section>
-                             <h2>Theo dõi</h2>
-                             <ul class="icons">
-                                 <li><a href="#" class="icon brands style2 fa-twitter"><span class="label">Twitter</span></a></li>
-                                 <li><a href="#" class="icon brands style2 fa-facebook-f"><span class="label">Facebook</span></a></li>
-                                 <li><a href="#" class="icon brands style2 fa-instagram"><span class="label">Instagram</span></a></li>
-                                 <li><a href="#" class="icon brands style2 fa-dribbble"><span class="label">Dribbble</span></a></li>
-                                 <li><a href="#" class="icon brands style2 fa-github"><span class="label">GitHub</span></a></li>
-                                 <li><a href="#" class="icon brands style2 fa-500px"><span class="label">500px</span></a></li>
-                                 <li><a href="#" class="icon solid style2 fa-phone"><span class="label">Phone</span></a></li>
-                                 <li><a href="#" class="icon solid style2 fa-envelope"><span class="label">Email</span></a></li>
-                             </ul>
-                         </section>
-                     </div>
-                 </footer>
-       </div>
-              
+                <h1 id="18">18+</h1>
+                <section class="tiles">
+                    <article class="style6">
+                        <span class="image">
+										<img src="https://sn3301files.storage.live.com/y4mdvAoWti86EzuCexzVYrcRf3Rzf79tle9D_dDh_-pbPA-CN6-8fH603FdeHZM3akiX144pWzNgtolFqPDvfBRTdT5cvXgke1i9OdOpDVGqPsyPAjDR_TVf4A9oz-t961av860PnKKwdYbg05xwtFDVAUWewxCzaA8vZRO98x_uvQLh1YdZ5QuSwKGJ8yR1rKMhSoFf_-POpk0SlYtTzMpeA/picture%203.jpg?psid=1&width=192&height=178" alt="" />
+									</span>
+                        <a href="games/among.html">
+                            <h2>Among Us</h2>
+                            <div class="content">
+                                <p>Một tựa game hành động ấn tượng đã tạo nên cơn sốt trong cộng đồng thời gian qua!</p>
+                            </div>
+                        </a>
+                    </article>
+                </section>
+                <a href="#genres">
+                    <br><br>
+                    <h3>Quay lại</h3>
+                </a>
+                <br><br><br>
+
+                <h1 id="2d">2D</h1>
+                <section class="tiles">
+                    <article class="style1">
+                        <span class="image"><img src="../images/genshin_thumbnail.jpg" alt="" /></span>
+                        <a href="../games/genshin.html">
+                            <h2>Genshin Impact</h2>
+                            <div class="content">
+                                <p>Một trò chơi nhập vai hành động sinh tồn phiêu lưu thế giới mở do miHoYo phát triển.</p>
+                            </div>
+                        </a>
+                    </article>
+                </section>
+                <a href="#genres">
+                    <br><br>
+                    <h3>Quay lại </h3>
+                </a>
+                <br><br><br>
+
+                <h1 id="music">Âm nhạc</h1>
+                <section class="tiles">
+                    <article class="style6">
+                        <span class="image">
+										<img src="https://sn3301files.storage.live.com/y4mdvAoWti86EzuCexzVYrcRf3Rzf79tle9D_dDh_-pbPA-CN6-8fH603FdeHZM3akiX144pWzNgtolFqPDvfBRTdT5cvXgke1i9OdOpDVGqPsyPAjDR_TVf4A9oz-t961av860PnKKwdYbg05xwtFDVAUWewxCzaA8vZRO98x_uvQLh1YdZ5QuSwKGJ8yR1rKMhSoFf_-POpk0SlYtTzMpeA/picture%203.jpg?psid=1&width=192&height=178" alt="" />
+									</span>
+                        <a href="games/among.html">
+                            <h2>Among Us</h2>
+                            <div class="content">
+                                <p>Một tựa game hành động ấn tượng đã tạo nên cơn sốt trong cộng đồng thời gian qua!</p>
+                            </div>
+                        </a>
+                    </article>
+                </section>
+                <a href="#genres">
+                    <br><br>
+                    <h3>Quay lại </h3>
+                </a>
+                <br><br><br>
+
+                <h1 id="fps">Bắn súng</h1>
+                <section class="tiles">
+                    <<article class="style3">
+                        <span class="image"><img src="../images/iden_thumbnail.jpg" alt=""/></span>
+                        <a href="../games/iden.html">
+                            <h2>Identity V</h2>
+                            <div class="content">
+                                <p>Một trò chơi thuộc thể loại kinh dị bất đối xứng được phát triển và xuất bản bởi NetEase Games.</p>
+                            </div>
+                        </a>
+                    </article>
+                </section>
+                <a href="#genres">
+                    <br><br>
+                    <h3>Quay lại </h3>
+                </a>
+                <br><br><br>
+
+                <h1 id="autobattler">Đấu trường tự động</h1>
+                <section class="tiles">
+                    <article class="style6">
+                        <span class="image">
+										<img src="https://sn3301files.storage.live.com/y4mdvAoWti86EzuCexzVYrcRf3Rzf79tle9D_dDh_-pbPA-CN6-8fH603FdeHZM3akiX144pWzNgtolFqPDvfBRTdT5cvXgke1i9OdOpDVGqPsyPAjDR_TVf4A9oz-t961av860PnKKwdYbg05xwtFDVAUWewxCzaA8vZRO98x_uvQLh1YdZ5QuSwKGJ8yR1rKMhSoFf_-POpk0SlYtTzMpeA/picture%203.jpg?psid=1&width=192&height=178" alt="" />
+									</span>
+                        <a href="games/among.html">
+                            <h2>Among Us</h2>
+                            <div class="content">
+                                <p>Một tựa game hành động ấn tượng đã tạo nên cơn sốt trong cộng đồng thời gian qua!</p>
+                            </div>
+                        </a>
+                    </article>
+                </section>
+                <a href="#genres">
+                    <br><br>
+                    <h3>Quay lại </h3>
+                </a>
+                <br><br><br>
+
+                <h1 id="platform">Đi cảnh</h1>
+                <section class="tiles">
+                    <article class="style6">
+                        <span class="image">
+										<img src="https://sn3301files.storage.live.com/y4mdvAoWti86EzuCexzVYrcRf3Rzf79tle9D_dDh_-pbPA-CN6-8fH603FdeHZM3akiX144pWzNgtolFqPDvfBRTdT5cvXgke1i9OdOpDVGqPsyPAjDR_TVf4A9oz-t961av860PnKKwdYbg05xwtFDVAUWewxCzaA8vZRO98x_uvQLh1YdZ5QuSwKGJ8yR1rKMhSoFf_-POpk0SlYtTzMpeA/picture%203.jpg?psid=1&width=192&height=178" alt="" />
+									</span>
+                        <a href="games/among.html">
+                            <h2>Among Us</h2>
+                            <div class="content">
+                                <p>Một tựa game hành động ấn tượng đã tạo nên cơn sốt trong cộng đồng thời gian qua!</p>
+                            </div>
+                        </a>
+                    </article>
+
+                </section>
+                <a href="#genres">
+                    <br><br>
+                    <h3>Quay lại </h3>
+                </a>
+                <br><br><br>
+
+                <h1 id="endlessrun">Endless run</h1>
+                <section class="tiles">
+                    <article class="style6">
+                        <span class="image">
+										<img src="https://sn3301files.storage.live.com/y4mdvAoWti86EzuCexzVYrcRf3Rzf79tle9D_dDh_-pbPA-CN6-8fH603FdeHZM3akiX144pWzNgtolFqPDvfBRTdT5cvXgke1i9OdOpDVGqPsyPAjDR_TVf4A9oz-t961av860PnKKwdYbg05xwtFDVAUWewxCzaA8vZRO98x_uvQLh1YdZ5QuSwKGJ8yR1rKMhSoFf_-POpk0SlYtTzMpeA/picture%203.jpg?psid=1&width=192&height=178" alt="" />
+									</span>
+                        <a href="games/among.html">
+                            <h2>Among Us</h2>
+                            <div class="content">
+                                <p>Một tựa game hành động ấn tượng đã tạo nên cơn sốt trong cộng đồng thời gian qua!</p>
+                            </div>
+                        </a>
+                    </article>
+                </section>
+                <a href="#genres">
+                    <br><br>
+                    <h3>Quay lại </h3>
+                </a>
+                <br><br><br>
+
+                <h1 id="puzzle">Giải đố</h1>
+                <section class="tiles">
+                    <article class="style6">
+                        <span class="image">
+										<img src="https://sn3301files.storage.live.com/y4mdvAoWti86EzuCexzVYrcRf3Rzf79tle9D_dDh_-pbPA-CN6-8fH603FdeHZM3akiX144pWzNgtolFqPDvfBRTdT5cvXgke1i9OdOpDVGqPsyPAjDR_TVf4A9oz-t961av860PnKKwdYbg05xwtFDVAUWewxCzaA8vZRO98x_uvQLh1YdZ5QuSwKGJ8yR1rKMhSoFf_-POpk0SlYtTzMpeA/picture%203.jpg?psid=1&width=192&height=178" alt="" />
+									</span>
+                        <a href="games/among.html">
+                            <h2>Among Us</h2>
+                            <div class="content">
+                                <p>Một tựa game hành động ấn tượng đã tạo nên cơn sốt trong cộng đồng thời gian qua!</p>
+                            </div>
+                        </a>
+                    </article>
+                </section>
+                <a href="#genres">
+                    <br><br>
+                    <h3>Quay lại </h3>
+                </a>
+                <br><br><br>
+
+                <h1 id="has">Hack and Slash</h1>
+                <section class="tiles">
+                    <article class="style6">
+                        <span class="image">
+										<img src="https://sn3301files.storage.live.com/y4mdvAoWti86EzuCexzVYrcRf3Rzf79tle9D_dDh_-pbPA-CN6-8fH603FdeHZM3akiX144pWzNgtolFqPDvfBRTdT5cvXgke1i9OdOpDVGqPsyPAjDR_TVf4A9oz-t961av860PnKKwdYbg05xwtFDVAUWewxCzaA8vZRO98x_uvQLh1YdZ5QuSwKGJ8yR1rKMhSoFf_-POpk0SlYtTzMpeA/picture%203.jpg?psid=1&width=192&height=178" alt="" />
+									</span>
+                        <a href="games/among.html">
+                            <h2>Among Us</h2>
+                            <div class="content">
+                                <p>Một tựa game hành động ấn tượng đã tạo nên cơn sốt trong cộng đồng thời gian qua!</p>
+                            </div>
+                        </a>
+                    </article>
+                </section>
+                <a href="#genres">
+                    <br><br>
+                    <h3>Quay lại </h3>
+                </a>
+                <br><br><br>
+
+                <h1 id="action">Hành động</h1>
+                <section class="tiles">
+                    <article class="style6">
+                        <span class="image">
+										<img src="https://sn3301files.storage.live.com/y4mdvAoWti86EzuCexzVYrcRf3Rzf79tle9D_dDh_-pbPA-CN6-8fH603FdeHZM3akiX144pWzNgtolFqPDvfBRTdT5cvXgke1i9OdOpDVGqPsyPAjDR_TVf4A9oz-t961av860PnKKwdYbg05xwtFDVAUWewxCzaA8vZRO98x_uvQLh1YdZ5QuSwKGJ8yR1rKMhSoFf_-POpk0SlYtTzMpeA/picture%203.jpg?psid=1&width=192&height=178" alt="" />
+									</span>
+                        <a href="games/among.html">
+                            <h2>Among Us</h2>
+                            <div class="content">
+                                <p>Một tựa game hành động ấn tượng đã tạo nên cơn sốt trong cộng đồng thời gian qua!</p>
+                            </div>
+                        </a>
+                    </article>
+                </section>
+                <a href="#genres">
+                    <br><br>
+                    <h3>Quay lại </h3>
+                </a>
+                <br><br><br>
+                
+                <h1 id="indie">Indie</h1>
+                <section class="tiles">
+                    <article class="style4">
+                        <span class="image"><img src="../images/sky_thumbnail.jpg" alt=""/></span>
+                        <a href="../games/sky.html">
+                            <h2>Sky: Children of the Light</h2>
+                            <div class="content">
+                                <p>Một trò chơi phiêu lưu độc lập xã hội mạng được phát triển và phát hành bởi Thatgamecompany.</p>
+                            </div>
+                        </a>
+                    </article>
+                </section>
+                <a href="#genres">
+                    <br><br>
+                    <h3>Quay lại </h3>
+                </a>
+                <br><br><br>
+
+                <h1 id="horror">Kinh dị</h1>
+                <section class="tiles">
+                    <article class="style3">
+                        <span class="image"><img src="../images/iden_thumbnail.jpg" alt=""/></span>
+                        <a href="../games/iden.html">
+                            <h2>Identity V</h2>
+                            <div class="content">
+                                <p>Một trò chơi thuộc thể loại kinh dị bất đối xứng được phát triển và xuất bản bởi NetEase Games.</p>
+                            </div>
+                        </a>
+                    </article>
+
+                </section>
+                <a href="#genres">
+                    <br><br>
+                    <h3>Quay lại </h3>
+                </a>
+                <br><br><br>
+
+                <h1 id="moba">MOBA</h1>
+                <section class="tiles">
+                    <article class="style2">
+                        <span class="image"><img src="../images/lmht_thumbnail.jpg" alt=""/></span>
+                        <a href="../games/lmht.html">
+                            <h2>Liên Minh Huyền Thoại</h2>
+                            <div class="content">
+                                <p>Một trò chơi video thể loại đấu trường trận chiến trực tuyến nhiều người chơi được Riot Games phát triển.</p>
+                            </div>
+                        </a>
+                    </article>
+                </section>
+                <a href="#genres">
+                    <br><br>
+                    <h3>Quay lại </h3>
+                </a>
+                <br><br><br>
+
+                <h1 id="rpg">Nhập vai</h1>
+                <section class="tiles">
+                    <article class="style1">
+                        <span class="image"><img src="../images/genshin_thumbnail.jpg" alt="" /></span>
+                        <a href="../games/genshin.html">
+                            <h2>Genshin Impact</h2>
+                            <div class="content">
+                                <p>Một trò chơi nhập vai hành động sinh tồn phiêu lưu thế giới mở do miHoYo phát triển.</p>
+                            </div>
+                        </a>
+                    </article>
+                    <article class="style3">
+                        <span class="image"><img src="../images/iden_thumbnail.jpg" alt=""/></span>
+                        <a href="../games/iden.html">
+                            <h2>Identity V</h2>
+                            <div class="content">
+                                <p>Một trò chơi thuộc thể loại kinh dị bất đối xứng được phát triển và xuất bản bởi NetEase Games.</p>
+                            </div>
+                        </a>
+                    </article>
+                </section>
+                <a href="#genres">
+                    <br><br>
+                    <h3>Quay lại </h3>
+                </a>
+                <br><br><br>
+
+                <h1 id="adventure">Phiêu lưu</h1>
+                <section class="tiles">
+                    <article class="style1">
+                        <span class="image"><img src="../images/genshin_thumbnail.jpg" alt="" /></span>
+                        <a href="../games/genshin.html">
+                            <h2>Genshin Impact</h2>
+                            <div class="content">
+                                <p>Một trò chơi nhập vai hành động sinh tồn phiêu lưu thế giới mở do miHoYo phát triển.</p>
+                            </div>
+                        </a>
+                    </article>
+                    <article class="style4">
+                        <span class="image"><img src="../images/sky_thumbnail.jpg" alt=""/></span>
+                        <a href="../games/sky.html">
+                            <h2>Sky: Children of the Light</h2>
+                            <div class="content">
+                                <p>Một trò chơi phiêu lưu độc lập xã hội mạng được phát triển và phát hành bởi Thatgamecompany.</p>
+                            </div>
+                        </a>
+                    </article>
+                </section>
+                <a href="#genres">
+                    <br><br>
+                    <h3>Quay lại </h3>
+                </a>
+                <br><br><br>
+
+                <h1 id="survival">Sinh tồn</h1>
+                <section class="tiles">
+                    <article class="style1">
+                        <span class="image"><img src="../images/genshin_thumbnail.jpg" alt="" /></span>
+                        <a href="../games/genshin.html">
+                            <h2>Genshin Impact</h2>
+                            <div class="content">
+                                <p>Một trò chơi nhập vai hành động sinh tồn phiêu lưu thế giới mở do miHoYo phát triển.</p>
+                            </div>
+                        </a>
+                    </article>
+                    <article class="style3">
+                        <span class="image"><img src="../images/iden_thumbnail.jpg" alt=""/></span>
+                        <a href="../games/iden.html">
+                            <h2>Identity V</h2>
+                            <div class="content">
+                                <p>Một trò chơi thuộc thể loại kinh dị bất đối xứng được phát triển và xuất bản bởi NetEase Games.</p>
+                            </div>
+                        </a>
+                    </article>
+                </section>
+                <a href="#genres">
+                    <br><br>
+                    <h3>Quay lại </h3>
+                </a>
+                <br><br><br>
+
+                <h1 id="card">Thẻ bài</h1>
+                <section class="tiles">
+                    <article class="style3">
+                        <span class="image"><img src="../images/iden_thumbnail.jpg" alt=""/></span>
+                        <a href="../games/iden.html">
+                            <h2>Identity V</h2>
+                            <div class="content">
+                                <p>Một trò chơi thuộc thể loại kinh dị bất đối xứng được phát triển và xuất bản bởi NetEase Games.</p>
+                            </div>
+                        </a>
+                    </article>
+                </section>
+                <a href="#genres">
+                    <br><br>
+                    <h3>Quay lại </h3>
+                </a>
+                
+
+                <h1 id="sport">Thể thao</h1>
+                <section class="tiles">
+                    <article class="style6">
+                        <span class="image">
+										<img src="https://sn3301files.storage.live.com/y4mdvAoWti86EzuCexzVYrcRf3Rzf79tle9D_dDh_-pbPA-CN6-8fH603FdeHZM3akiX144pWzNgtolFqPDvfBRTdT5cvXgke1i9OdOpDVGqPsyPAjDR_TVf4A9oz-t961av860PnKKwdYbg05xwtFDVAUWewxCzaA8vZRO98x_uvQLh1YdZ5QuSwKGJ8yR1rKMhSoFf_-POpk0SlYtTzMpeA/picture%203.jpg?psid=1&width=192&height=178" alt="" />
+									</span>
+                        <a href="games/among.html">
+                            <h2>Among Us</h2>
+                            <div class="content">
+                                <p>Một tựa game hành động ấn tượng đã tạo nên cơn sốt trong cộng đồng thời gian qua!</p>
+                            </div>
+                        </a>
+                    </article>
+                </section>
+                <a href="#genres">
+                    <br><br>
+                    <h3>Quay lại </h3>
+                </a>
+                <br><br><br>
+
+                <h1 id="fashion">Thời trang</h1>
+                <section class="tiles">
+                    <article class="style6">
+                        <span class="image">
+										<img src="https://sn3301files.storage.live.com/y4mdvAoWti86EzuCexzVYrcRf3Rzf79tle9D_dDh_-pbPA-CN6-8fH603FdeHZM3akiX144pWzNgtolFqPDvfBRTdT5cvXgke1i9OdOpDVGqPsyPAjDR_TVf4A9oz-t961av860PnKKwdYbg05xwtFDVAUWewxCzaA8vZRO98x_uvQLh1YdZ5QuSwKGJ8yR1rKMhSoFf_-POpk0SlYtTzMpeA/picture%203.jpg?psid=1&width=192&height=178" alt="" />
+									</span>
+                        <a href="games/among.html">
+                            <h2>Among Us</h2>
+                            <div class="content">
+                                <p>Một tựa game hành động ấn tượng đã tạo nên cơn sốt trong cộng đồng thời gian qua!</p>
+                            </div>
+                        </a>
+                    </article>
+                </section>
+                <a href="#genres">
+                    <br><br>
+                    <h3>Quay lại </h3>
+                </a>
+                <br><br><br>
 
 
-       <!-- Scripts -->
-	<script src="../assets/js/jquery.min.js"></script>
-	<script src="../assets/js/browser.min.js"></script>
-	<script src="../assets/js/breakpoints.min.js"></script>
-	<script src="../assets/js/util.js"></script>
-	<script src="../assets/js/main.js"></script>
+            </div>
+        </div>
+        <br> <br> <br>
+        <!-- Footer -->
+        <footer id="footer">
+            <div class="inner">
+                <section>
+                    <h2>Phản hồi</h2>
+                    <form method="post" action="#">
+                        <div class="fields">
+                            <div class="field half">
+                                <input type="text" name="name" id="name" placeholder="Tên" />
+                            </div>
+                            <div class="field half">
+                                <input type="email" name="email" id="email" placeholder="Email" />
+                            </div>
+                            <div class="field">
+                                <textarea name="message" id="message" placeholder="Lời nhắn"></textarea>
+                            </div>
+                        </div>
+                        <ul class="actions">
+                            <li><input type="submit" value="Gửi" class="primary" /></li>
+                        </ul>
+                    </form>
+                </section>
+                <section>
+                    <h2>Theo dõi</h2>
+                    <ul class="icons">
+                        <li><a href="#" class="icon brands style2 fa-twitter"><span class="label">Twitter</span></a></li>
+                        <li><a href="#" class="icon brands style2 fa-facebook-f"><span class="label">Facebook</span></a></li>
+                        <li><a href="#" class="icon brands style2 fa-instagram"><span class="label">Instagram</span></a></li>
+                        <li><a href="#" class="icon brands style2 fa-dribbble"><span class="label">Dribbble</span></a></li>
+                        <li><a href="#" class="icon brands style2 fa-github"><span class="label">GitHub</span></a></li>
+                        <li><a href="#" class="icon brands style2 fa-500px"><span class="label">500px</span></a></li>
+                        <li><a href="#" class="icon solid style2 fa-phone"><span class="label">Phone</span></a></li>
+                        <li><a href="#" class="icon solid style2 fa-envelope"><span class="label">Email</span></a></li>
+                    </ul>
+                </section>
+            </div>
+        </footer>
+
+    </div>
+
+    <!-- Scripts -->
+    <script src="../assets/js/jquery.min.js"></script>
+    <script src="../assets/js/browser.min.js"></script>
+    <script src="../assets/js/breakpoints.min.js"></script>
+    <script src="../assets/js/util.js"></script>
+    <script src="../assets/js/main.js"></script>
+
 </body>
+
 </html>
