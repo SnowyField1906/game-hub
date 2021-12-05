@@ -408,7 +408,7 @@
     .u-button-style.u-palette-1-base,
     .u-button-style.u-palette-1-base[class*=u-border-] {
         color: #fff !important;
-        background-color: #0d244b !important
+        background-color: #dd812a !important
     }
     
     a {
@@ -430,7 +430,7 @@
     
     .u-btn,
     .u-image:not(.u-shading)>.u-container-layout>.u-btn {
-        background-color: #972525;
+        background-color: #c26c33;
         color: rgb(197, 181, 181)
     }
     
