@@ -466,3 +466,26 @@
     .u-section-2 .u-sheet-1 {
         min-height: 500px;
     }
+    /* the loai  */
+    
+    .gallery {
+        display: flex;
+        flex-wrap: wrap;
+        margin: -1rem -1rem;
+    }
+    
+    .gallery-image {
+        width: 160px;
+        height: 60px;
+        object-fit: cover;
+        transition: transform 300ms ease-out;
+    }
+    
+    .gallery-image:hover {
+        transform: scale(1.1);
+    }
+    
+    .gallery,
+    .gallery-item {
+        margin: 10px;
+    }
