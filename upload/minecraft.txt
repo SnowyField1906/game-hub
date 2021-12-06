@@ -1,0 +1,25 @@
+Nhà phát triển: Mojang
+Nhà phát hành: Mojang 
+Thiết kế	:•	Markus "Notch" Persson (2009–2011)
+         •	Jens "Jeb" Bergensten (2011–nay)
+Lập trình:	Jens Bergensten 
+Âm nhạc	:Daniel Rosenfeld
+Nền tảng:Windows,Android,iOS
+Ngày phát hành:	Chính thức: 18 tháng 11 năm 2011
+
+Thể loại: Thế giới mở, Sinh tồn
+Chế độ	: Chơi đơn ,Chơi mạng
+
+---
+-Thumnail: là một trò chơi điện tử độc lập trong một thế giới mở với phong cách sandbox, được phát hành vào năm 2009 bởi lập trình viên người Thụy Điển Markus "Notch" Persson và sau đó được phát triển và phát hành bởi Mojang Studio
+
+-lối chơi: Thế giới trong trò chơi được tạo ra cho người chơi chủ yếu là các khối lập phương D nằm trong bản đồ và tượng trưng cho các vật liệu khác .Người chơi có thể di chuyển tự do trên toàn thế giới, các khối chỉ có thể được đặt ở một vị trí cố định nào đó. Người chơi có thể thu thập các khối vật chất và đặt chúng ở những nơi khác để xây dựng công trình khác nhau. Vào lúc bắt đầu trò chơi, người chơi được tạo trên bề mặt của một thế giới hoang sơ và hầu như vô hạn. Thế giới được chia thành nhiều quần xã sinh vật khác nhau .. Thời gian ở trong trò chơi được hệ thống theo một chu kỳ ngày đêm, với một chu kỳ đầy đủ kéo dài  phút thời gian thực. Trong suốt quá trình chơi, người chơi sẽ được gặp nhiều sinh vật được gọi là "mobs" bao gồm các loài động vật, dân làng và các quái vật. Những động vật như bò, bò nấm, lợn, gà, cừu, ngựa, gấu Bắc Cực, thỏ, cá heo, rùa, mực, dê núi có thể được săn bắt để ăn hay chế tạo vật phẩm và vật liệu, được sinh ra vào ban ngày hoặc bằng các loại trứng spawn ở chế độ sáng tạo. Kỳ giông Mexico, Iron Golem, Snow Golem, ... là những mobs tiện ích có thể giúp người chơi tấn công một số quái vật. Ngược lại, những quái vật như nhện, skeleton và thây ma được sinh ra vào ban đêm hoặc trong những nơi tối tăm như hang động, khe vực và thù địch với người chơi. Một số sinh vật trong đặc biệt và nguy hiểm chỉ có trong Minecraft như Creeper, một sinh vật nổ lén đằng sau người chơi. Creeper có thể xuất hiện vào ban đêm, tuy nhiên không giống như những quái vật khác, Creeper không bị cháy khi tiếp xúc với nắng và Enderman, một sinh vật có khả năng dịch chuyển và nhặt khối tự do. Thế giới trong trò chơi được tạo ra một cách ngẫu nhiên trong lúc người chơi khám phá nó, bằng cách sử dụng một tọa độ (gọi là seed, cùng nghĩa với từ hạt giống, chính điều này khiến nhiều người lầm tưởng chúng là hạt giống) được tạo ra từ hệ thống, trừ khi người chơi muốn tạo tọa độ theo ý mình.Mặc dù có những hạn chế về di chuyển lên và xuống, Minecraft cho phép tạo ra một thế giới vô cùng lớn hoàn toàn là một mặt phẳng nằm ngang. Minecraft có hai thế giới khác ngoài thế giới chính (Overworld) là Nether (Địa Ngục) và The End (Thế giới Tận Cùng hay Thế giới Kết Thúc). Nether là một thế giới được đi tới bằng một cánh cổng được người chơi xây bằng hắc diện thạch có diện tích ít nhất là 2×3 và diện tích trung bình là 3×4 (Obsidian và khởi động bằng dụng cụ đánh lửa, Fire charge,...) . Nether cũng rộng lớn như thế giới thực. The End là một chiều không gian bóng tối bao gồm các hòn đảo riêng biệt trong khoảng không được làm từ đá end, quê hương của những Enderman, Shulker (trong các End City) được boss cuối của game là Rồng Ender cai quản. Sau khi hạ gục Rồng Ender, thế giới sẽ tạo ra cổng end gateway cho phép người chơi truy cập vào các hòn đảo ngoài chứa những End City, kích hoạt cổng thoát, văn bản kết thúc và các điều khoản của trò chơi được viết bởi Irish Julian Gough sẽ hiện ra khi người chơi vào cổng. Người chơi sau đó được cho phép dịch chuyển trở lại điểm ban đầu của họ trong thế giới bình thường, và sẽ nhận được thành tích "The End". Trò chơi chủ yếu bao gồm bốn chế độ chơi: chế độ sinh tồn, chế độ sáng tạo, chế độ phiêu lưu, và chế độ khán giả. Nó cũng có một hệ thống độ khó có thể thay đổi gồm bốn cấp độ, từ khó đến dễ với dễ nhất là bình yên và khó nhất là hardcore.
+
+
+----	
+-	Download: 
+o	Appstore: https://apps.apple.com/us/app/minecraft/id479516143
+o	Chplay: https://play.google.com/store/apps/details?id=com.mojang.minecraftpe&hl=vi&gl=US
+o	PC: https://download.com.vn/minecraft-44205
+-	web: https://classic.minecraft.net/
+-	Wiki: https://vi.wikipedia.org/wiki/Minecraft

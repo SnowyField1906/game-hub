@@ -1,0 +1,31 @@
+-thumnail: Plants vs. Zombies 2 là một trò chơi điện tử phòng thủ tháp do PopCap Games phát triển và phát hành
+-giới thiệu: Trong Plants vs.Zombies, người chơi sẽ vào vai một người chủ nhà giữa bối cảnh tận thế zombie. Khi một đám zombie bắt đầu có ý định tiếp cận ngôi nhà dọc theo các làn đường song song, người chơi phải bảo vệ nhà bằng cách trồng cây trên làn đường để bắn đạn tiêu diệt lũ zombie hoặc gây bất lợi cho chúng. Người chơi thu thập một loại tiền tệ được gọi là "mặt trời" để mua cây. Nếu một zombie mà tiếp cận được ngôi nhà bằng bất kỳ làn đường nào, màn chơi coi như thất bại và người chơi sẽ phải khởi động lại màn đó.
+-lối chơi: Plants vs.Zombies là trò chơi điện tử phòng thủ tháp, mục tiêu của người chơi là ngăn không cho zombie tiếp cận ngôi nhà. Người chơi trồng các loại thực vật khác nhau trên từng ô vuông riêng lẻ của lưới. Mỗi cây có một phong cách phòng ngự khác nhau.  Mỗi loại zombie đều có những hành vi đặc biệt và điểm yếu riêng khi gặp một số loại cây nhất định. 
+Khi bắt đầu màn chơi, người chơi phải lựa chọn những loại cây sẽ trồng ở màn đó với số lượng giới hạn thông qua các gói hạt giống và muốn trồng chúng thì phải sử dụng một loại tiền tệ gọi là "mặt trời". Người chơi thu thập mặt trời bằng cách nhấp vào mặt trời rơi ngẫu nhiên trên bãi cỏ hoặc bằng các loại cây nhất định sản xuất ra mặt trời, chẳng hạn như hoa hướng dương (sunflower) hoặc nấm mặt trời (sunshroom). Nếu người chơi muốn hủy bỏ một cây đã trồng, họ có thể nhổ nó bằng xẻng. Khi một zombie tiến sát rìa trái của một làn đường, máy cắt cỏ sẽ kích hoạt dọn sạch zombie của làn đó và không còn có thể sử dụng thêm một lần nào nữa trong màn đó; nếu một zombie khác đi đến cuối làn đường, người chơi sẽ phải khởi động lại màn chơi.
+
+---
+Nhà phát triển: PopCap Games
+Nhà phát hành: PopCap Games[a]
+Thiết kế	:George Fan
+Lập trình :Tod Semple
+Minh họa	:Rich Werner
+Kịch bản	:Stephen Notley[b]
+Âm nhạc:	Laura Shigihara
+Dòng trò chơi	Plants vs. Zombies
+Công nghệ	PopCap Framework
+Nền tảng
+
+•	iOS
+•	Android
+Ngày phát hành	5 tháng 5 năm 2009
+Thể loại
+Phòng thủ tháp, chiến lược
+Chế độ	Một người chơi, nhiều người chơi
+
+---
+Web: https://www.ea.com/games/plants-vs-zombies/plants-vs-zombies-battle-for-neighborville
+Wikipedia: 
+Download: 
+android: https://play.google.com/store/apps/details?id=com.ea.game.pvz2_na
+Ios: https://apps.apple.com/ca/app/plants-vs-zombies-2/id597986893
+

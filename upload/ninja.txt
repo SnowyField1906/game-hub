@@ -1,0 +1,16 @@
+-thumnail: Ninja School là game nhập vai ninja cổ điển được phát hành bởi Teamobi.
+-giới thiệu: Game Ninja School sẽ đưa bạn đến với thế giới của những chiến binh dũng mãnh để tham gia những khóa huấn luyện trở thành chiến binh dũng mãnh nhất.
+Chúng ta sẽ đến với trường học cổ xưa - nơi huấn luyện những chiến binh đích thực. Bạn sẽ được hướng dẫn bởi các thấy cô giáo kinh nghiệm và mang trong mình bí kíp võ học cổ điển có thể biến bạn trở thành ninja giỏi nhất trong thế giới bóng đêm.
+Ninja School lấy bối cảnh nước Châu Á những năm đầu thế kỷ 19, với lối chơi nhẹ nhàng không đòi hỏi nhiều thời gian để chơi. Mỗi nhân vật trong Ninja School đều mang một cá tính riêng, cũng như cách tu luyện khác nhau.
+---
+Phát hành: TeaMobi
+Thể loại: nhập vai, 2D, phiêu lưu, đi ải
+Nền tảng: android, windows, Ios
+---
+Download: 
+-	Android: https://play.google.com/store/apps/details?id=com.team.njonline
+-	Ios: https://apps.apple.com/vn/app/ninja-school-online/id656036476
+-	Windows: http://dl.teamobi.com/drive/get/pt
+Web: http://ninjaschool.vn/?c=anow&p=0
+
+

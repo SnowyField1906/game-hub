@@ -1,0 +1,20 @@
+-nhà phát hành và phát triển: playdead
+-thể loại: indie, phiêu lưu, đi cảnh, kinh dị
+-nền tảng: android, iOS, steam
+
+
+---
+
+-thumnail: Là một khoản game mobile mới về một thế giới mạo hiểm lãng mạn rộng lớn, Laplace M lấy bối cảnh ma pháp thời Trung cổ, với sự tham gia của nhà chế tác âm nhạc Motoi Sakuraba, người phụ trách phần phối âm cho game.
+-mở đầu: Khi vào game, người chơi sẽ thấy không có văn bản, không có đối thoại và chỉ có những bước chân dồn dập. Đôi lúc chỉ có tiếng mưa, quạ bay, càng khiến nhân vật trở nên cô đơn.
+Một mình bạn phải trải qua những thử thách nguy hiểm với những cạm bẫy, hầm chông. Nếu không cẩn thận thì nhân vật sẽ bị chông xuyên người, bị giật điện, đá đè,… những cảnh tượng đó sẽ lặp lại rất nhiều lần trong quá trình chơi. Trò chơi được thiết lập để truyền đạt hoàn cảnh và quan hệ nhân quả đến người chơi một cách đơn giản nhất. Nền tảng cấu đố 2D đen trắng là một trong những game Limbo hay nhất mà bạn từng chơi.
+-cách chơi: Đầu tiên bạn sẽ điều khiển một cậu bé thức dậy trong một khu rừng. Tiếp theo bạn phải điều khiển cậu bé đi khám phá khu rừng bằng cách trải qua các thử thách nguy hiểm. Từ đầu đến cuối trò chơi sẽ khiến người chơi phải kinh ngạc và thú vị. Điều bạn cần là bắt đầu di chuyển cậu bé này chạy, nhảy, đu dây, đẩy, kéo đồ vật và bám vào tường bằng việc di chuyển trên bàn phím.
+
+
+---
+
+-wiki: https://en.wikipedia.org/wiki/Limbo_(video_game)
+-dowload: 
+	+Androi: https://play.google.com/store/apps/details?id=com.playdead.limbo.full&hl=vi&gl=US
+	+iOS: https://apps.apple.com/us/app/limbo/id656951157?l=vi
+	+Steam: https://store.steampowered.com/app/48000/LIMBO/
