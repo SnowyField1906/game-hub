@@ -1,0 +1,19 @@
+-nhà phát hành và phát triển: playdead
+-thể loại: giải đố, kinh dị, 3D
+-nền tảng: iOS, steam
+
+
+---
+
+-thumnail: Inside là một trò chơi phiêu lưu giải đố-platformer do Playdead phát triển và xuất bản vào năm 2016
+-cốt truyện: Người chơi sẽ vào vai một cậu bé vô danh bị lạc vào một hòn đảo bí ẩn. Hòn đảo này thực hiện các nghiên cứu bí ẩn lên con người như: điều khiển trí não, dịch bệnh làm con người bị đột biến,... Ta dần nhận ra những kẻ đeo mặt nạ là những kẻ đứng sau những nghiên cứu vô nhân tính này, mặt nạ như một cái khẩu trang giúp chúng miễn nhiễm với những gì chúng gây ra.
+Trong quá trình chơi, ta sẽ gặp sinh vật khổng lồ - Một sinh vật nhiều chi của con người, do nhiều người đột biến liên kết lại với nhau. Khi thấy cậu bé vô danh giải cứu sinh vật này, ta có thể khẳng định là sinh vật này có người thân bị đột biến của cậu nằm trong đó. Người thân của cậu đã bị bọn đeo mặt nạ bắt về nghiên cứu. Bằng chứng là trong suốt quá trình chơi ta có thể biết được cậu bé hành động là có mục đích nào đó: cậu sợ những gã đeo mặt nạ nhưng nhân viên khu nghiên cứu thì cậu lại không. Khi thấy sinh vật nhiều chi người, cậu ngay lập tức chạy tới giải thoát nó mà không một chút sợ hãi.
+
+
+---
+
+-wiki: https://en.wikipedia.org/wiki/Inside_(video_game)
+-web: https://playdead.com/games/inside/
+-dowload:
+	+iOS: https://apps.apple.com/app/id1201642309
+	+Steam: https://store.steampowered.com/app/304430/INSIDE/

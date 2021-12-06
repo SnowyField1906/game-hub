@@ -1,0 +1,20 @@
+-Thumnail: Pokemon go là một trò chơi tương tác ảo được Niantic phát triển và The Pokémon Company phát hành dành cho các thiết bị iOS và Android thuộc dòng game Pokémon.
+
+-Giới thiệu: Trò chơi cho phép người chơi bắt, đấu, huấn luyện và trao đổi Pokémon thông qua thế giới thực bằng cách sử dụng GPS và camera của thiết bị. Đây là một trò chơi miễn phí tải về, nhưng có hỗ trợ mua hàng trong ứng dụng để người chơi có thể mua các vật dụng trong game. Trò chơi nhanh chóng trở thành một trong những ứng dụng được sử dụng nhiều nhất trên điện thoại ngay sau khi ra mắt, vượt qua cả kỷ lục trước đó được Candy Crush Saga nắm giữ. Pokémon GO nhanh chóng trở thành nguồn lợi to lớn cho Nintendo - công ty sở hữu The Pokémon Company. Trò chơi được các chuyên gia tâm lý đánh giá cao vì giúp cải thiện sức khỏe tâm thần và thể chất của người chơi, nhưng cũng gây ra không ít tranh cãi trong việc gây nên một số vụ tai nạn và không ít vụ việc tiêu cực khác.
+
+---
+Nhà phát triển:Niantic
+Nhà phát hành:The Pokémon Company
+Âm nhạc	:Junichi Masuda[1]
+Dòng trò chơi:	Pokémon
+Công nghệ:	Unity
+Nền tảng: iOS, Android
+Thể loại: Tương tác ảo
+Chế độ	:Một người chơi, nhiều người chơi
+
+---
+Wiki: https://vi.wikipedia.org/wiki/Pok%C3%A9mon_GO
+Web: https://pokemongolive.com/
+Download: 
+-	Ios: https://apps.apple.com/us/app/pok%C3%A9mon-go/id1094591345
+-	Android: https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo&hl=vi&gl=US
