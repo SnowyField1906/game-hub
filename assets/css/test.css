@@ -503,3 +503,9 @@
             -ms-filter: grayscale(30%);
             -o-filter: grayscale(30%);
         }
+        
+        .bgtt {
+            background-image: url(../../images/anhnen.jpg);
+            background-repeat: no-repeat;
+            background-position: center bottom;
+        }
