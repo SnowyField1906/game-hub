@@ -504,14 +504,35 @@
             -o-filter: brightness(150%);
         }
         
-        .bgtt {
-            background-color: #ffffffec;
+        .bgtt2 {
+            background-color: #e7e1e1ec;
             border: 2px solid rgb(187, 181, 181);
             border-radius: 12px;
-            padding: 20px;
+            padding: 2px;
+        }
+        
+        .bgtt1 {
+            background-color: #e7e1e1ec;
+            border: 2px solid rgb(212, 204, 204);
+            border-radius: 12px;
+            padding: 50px;
         }
         
         .canle {
             margin-left: 200px;
             margin-right: 200px;
+        }
+        
+        .canle1 {
+            margin-left: 200px;
+            margin-right: 200px;
+        }
+        
+        .canle2 {
+            margin-left: 250px;
+            margin-right: 250px;
+        }
+        
+        .canle3 {
+            margin-left: 500px;
         }
