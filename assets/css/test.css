@@ -408,11 +408,7 @@
         .u-button-style.u-palette-1-base,
         .u-button-style.u-palette-1-base[class*=u-border-] {
             color: #fff !important;
-<<<<<<< HEAD
             background-color: #F7941D !important
-=======
-            background-color: #bd5c24 !important
->>>>>>> cc20f994b91e80eadcc9172c0abc5c42e9e478ca
         }
         
         a {
@@ -502,8 +498,8 @@
             transform: scale(1.05);
             transition: transform 500ms ease-out;
             filter: orangecale(15%);
-            -webkit-filter: brightness(150%);
-            -moz-filter: brightness(150%);
+            -webkit-filter: brightness(75%);
+            -moz-filter: brightness(75%);
             -ms-filter: brightness(150%);
             -o-filter: brightness(150%);
         }
