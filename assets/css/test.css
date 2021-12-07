@@ -408,11 +408,7 @@
         .u-button-style.u-palette-1-base,
         .u-button-style.u-palette-1-base[class*=u-border-] {
             color: #fff !important;
-<<<<<<< HEAD
-            background-color: #F7941D !important
-=======
             background-color: #bd5c24 !important
->>>>>>> cc20f994b91e80eadcc9172c0abc5c42e9e478ca
         }
         
         a {
@@ -510,6 +506,9 @@
         
         .bgtt {
             background-color: #d5d8dd;
+            border: 2px solid rgb(82, 79, 79);
+            border-radius: 12px;
+            padding: 5px;
         }
         
         .canle {
