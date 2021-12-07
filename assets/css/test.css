@@ -504,14 +504,42 @@
             -o-filter: brightness(150%);
         }
         
-        .bgtt {
-            background-color: #ffffffec;
-            border: 2px solid rgb(187, 181, 181);
+        .bgtt2 {
+            background-color: #F5F5F5;
+            border: 2px solid rgb(224, 217, 217);
             border-radius: 12px;
-            padding: 20px;
+            padding: 2px;
+        }
+        
+        .bgtt1 {
+            background-color: #F5F5F5;
+            border: 2px solid rgb(235, 229, 229);
+            border-radius: 12px;
+            padding-top: 40px;
+            padding-right: 50px;
+            padding-bottom: 5px;
+            padding-left: 50px;
         }
         
         .canle {
             margin-left: 200px;
             margin-right: 200px;
+        }
+        
+        .canle1 {
+            margin-left: 200px;
+            margin-right: 200px;
+        }
+        
+        .canle2 {
+            margin-left: 250px;
+            margin-right: 250px;
+        }
+        
+        .canle3 {
+            margin-left: 67%;
+        }
+        
+        .canle4 {
+            margin-left: 63%;
         }
