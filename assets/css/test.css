@@ -505,17 +505,20 @@
         }
         
         .bgtt2 {
-            background-color: #e7e1e1ec;
-            border: 2px solid rgb(187, 181, 181);
+            background-color: #F5F5F5;
+            border: 2px solid rgb(224, 217, 217);
             border-radius: 12px;
             padding: 2px;
         }
         
         .bgtt1 {
-            background-color: #e7e1e1ec;
-            border: 2px solid rgb(212, 204, 204);
+            background-color: #F5F5F5;
+            border: 2px solid rgb(235, 229, 229);
             border-radius: 12px;
-            padding: 50px;
+            padding-top: 40px;
+            padding-right: 50px;
+            padding-bottom: 5px;
+            padding-left: 50px;
         }
         
         .canle {
@@ -534,5 +537,9 @@
         }
         
         .canle3 {
-            margin-left: 500px;
+            margin-left: 67%;
+        }
+        
+        .canle4 {
+            margin-left: 63%;
         }
