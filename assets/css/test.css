@@ -408,7 +408,11 @@
         .u-button-style.u-palette-1-base,
         .u-button-style.u-palette-1-base[class*=u-border-] {
             color: #fff !important;
+<<<<<<< HEAD
             background-color: #F7941D !important
+=======
+            background-color: #bd5c24 !important
+>>>>>>> cc20f994b91e80eadcc9172c0abc5c42e9e478ca
         }
         
         a {
@@ -497,11 +501,11 @@
         .glm:hover {
             transform: scale(1.05);
             transition: transform 500ms ease-out;
-            filter: orangecale(30%);
-            -webkit-filter: grayscale(30%);
-            -moz-filter: grayscale(30%);
-            -ms-filter: grayscale(30%);
-            -o-filter: grayscale(30%);
+            filter: orangecale(15%);
+            -webkit-filter: brightness(150%);
+            -moz-filter: brightness(150%);
+            -ms-filter: brightness(150%);
+            -o-filter: brightness(150%);
         }
         
         .bgtt {
@@ -511,8 +515,4 @@
         .canle {
             margin-left: 200px;
             margin-right: 200px;
-        }
-        
-        .canle2 {
-            margin-left: 30px;
         }
