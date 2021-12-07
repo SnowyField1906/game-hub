@@ -408,11 +408,7 @@
         .u-button-style.u-palette-1-base,
         .u-button-style.u-palette-1-base[class*=u-border-] {
             color: #fff !important;
-<<<<<<< HEAD
             background-color: #F7941D !important
-=======
-            background-color: #bd5c24 !important
->>>>>>> faf8358784eb91aa05b2a788cb176d6a4690b295
         }
         
         a {
