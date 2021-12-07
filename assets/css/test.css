@@ -408,7 +408,7 @@
         .u-button-style.u-palette-1-base,
         .u-button-style.u-palette-1-base[class*=u-border-] {
             color: #fff !important;
-            background-color: #dd6c2a !important
+            background-color: #bd5c24 !important
         }
         
         a {
@@ -497,11 +497,11 @@
         .glm:hover {
             transform: scale(1.05);
             transition: transform 500ms ease-out;
-            filter: orangecale(30%);
-            -webkit-filter: grayscale(30%);
-            -moz-filter: grayscale(30%);
-            -ms-filter: grayscale(30%);
-            -o-filter: grayscale(30%);
+            filter: orangecale(15%);
+            -webkit-filter: grayscale(15%);
+            -moz-filter: grayscale(15%);
+            -ms-filter: grayscale(15%);
+            -o-filter: grayscale(15%);
         }
         
         .bgtt {
