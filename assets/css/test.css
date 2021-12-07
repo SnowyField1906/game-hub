@@ -505,10 +505,10 @@
         }
         
         .bgtt {
-            background-color: #d5d8dd;
-            border: 2px solid rgb(202, 194, 194);
+            background-color: #ffffffec;
+            border: 2px solid rgb(187, 181, 181);
             border-radius: 12px;
-            padding: 30px;
+            padding: 20px;
         }
         
         .canle {
