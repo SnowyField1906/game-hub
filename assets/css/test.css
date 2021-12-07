@@ -498,10 +498,10 @@
             transform: scale(1.05);
             transition: transform 500ms ease-out;
             filter: orangecale(15%);
-            -webkit-filter: grayscale(15%);
-            -moz-filter: grayscale(15%);
-            -ms-filter: grayscale(15%);
-            -o-filter: grayscale(15%);
+            -webkit-filter: brightness(150%);
+            -moz-filter: brightness(150%);
+            -ms-filter: brightness(150%);
+            -o-filter: brightness(150%);
         }
         
         .bgtt {
