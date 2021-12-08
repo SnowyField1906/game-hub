@@ -2386,6 +2386,10 @@ button:disabled,
 /* Tiles */
 
 .tiles {
+    display: -moz-flex;
+    display: -webkit-flex;
+    display: -ms-flex;
+    display: flex;
     -moz-flex-wrap: wrap;
     -webkit-flex-wrap: wrap;
     -ms-flex-wrap: wrap;
@@ -2569,7 +2573,7 @@ body:not(.is-touch) .tiles article:hover .content {
 }
 
 *+.tiles {
-    margin-top: 2em;
+    margin-top: -4em;
 }
 
 body.is-preload .tiles article {
