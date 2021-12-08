@@ -475,8 +475,8 @@
         }
         
         .gallery-image {
-            width: 160px;
-            height: 60px;
+            width: 104px;
+            height: 39px;
             object-fit: cover;
             transition: transform 300ms ease-out;
         }
@@ -487,8 +487,9 @@
         
         .gallery,
         .gallery-item {
-            margin: 12px;
+            margin: 6px;
         }
+        /* cac phan khac */
         
         .bg {
             background-color: rgb(212, 219, 221);
