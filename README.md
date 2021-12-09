@@ -1,6 +1,6 @@
 # **Chia làm 5 nhóm:**
 
-## 1. Nhóm **TÌM KIẾM THÔNG TIN** (**Quang** , **Tài**): Tìm thông tin theo yêu cầu sau:
+## 1. Nhóm **TÌM KIẾM THÔNG TIN** (**Quang**, **Tài**): Tìm thông tin theo yêu cầu sau:
 
   - Ảnh (là ảnh splash art chính thức của game, rõ nét) với các tỉ lệ cố định:
     - Ảnh giới thiệu: 1.08:1.
