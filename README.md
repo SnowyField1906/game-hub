@@ -2,9 +2,9 @@
 
 ## 1. Nhóm **TÌM KIẾM THÔNG TIN** (**Quang** , **Tài**): Tìm thông tin theo yêu cầu sau:
 
-  - Ảnh (là ảnh splash art chính thức của game, rõ nét) với các kích thước cố định:
-    - Ảnh giới thiệu: 353x326.
-    - Ảnh bìa: 1153x326.
+  - Ảnh (là ảnh splash art chính thức của game, rõ nét) với các tỉ lệ cố định:
+    - Ảnh giới thiệu: 1.08:1.
+    - Ảnh bìa: 3.5:1.
     - Ảnh phụ: Các ảnh này sẽ được tìm theo yêu cầu của 2 **nhóm HTML**.
 
   - Thông tin (bảng bên phải **wikipedia**):
