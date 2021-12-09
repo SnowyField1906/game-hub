@@ -28,7 +28,7 @@
 
 ## 2. Nhóm **UPLOAD THÔNG TIN** (**Sang**): Upload thông tin theo yêu cầu sau:
 
-- Các ảnh tìm được sẽ phải upload lên folder _ **images** _ trong repo với tên theo quy định:
+- Các ảnh tìm được sẽ phải upload lên folder **images** trong repo với tên theo quy định:
 
   - Ảnh giới thiệu: <tên game ngắn gọn> + “_thumbnail” (ví dụ: genshin_thumbnail).
   - Ảnh bìa: <tên game ngắn gọn> + “_cover” (ví dụ: genshin_cover).
@@ -62,13 +62,12 @@
 3. Vì mọi thứ đã được đặt theo quy định nên mọi người có thể làm việc độc lập với nhau mà không phụ thuộc vào ai cả.
 4. Tất cả mọi thứ phải tương đồng với những cái có trước.
 5. Tất cả đều có trên repo, **mỗi người sẽ quản lí những thư mục riêng của mình trên repo**.
-6. File elements.html cực kì hữu ích cho các nhóm **HTML**.
-7. **Thường xuyên theo dõi repo của nhóm** :
+6. **Thường xuyên theo dõi repo của nhóm** :
 
 - Link repo: [https://github.com/SnowyField1906/GameHub/](https://github.com/SnowyField1906/GameHub/)
 - Link web: [https://snowyfield1906.github.io/GameHub](https://snowyfield1906.github.io/GameHub/)
 
-8. Link repo ma cho những ai cần học hay luyện html/các lệnh git:
+7. Link repo ma cho những ai cần học hay luyện html/các lệnh git:
 
 - Link repo: [https://github.com/SnowyField1906/project1\_new/](https://github.com/SnowyField1906/project1_new/)
 - Link web: [https://snowyfield1906.github.io/project1\_new/](https://snowyfield1906.github.io/project1_new/)
