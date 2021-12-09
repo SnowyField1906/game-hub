@@ -263,7 +263,7 @@ h1 {
     font-size: 2.75em;
     font-weight: 700;
     line-height: 1.3;
-    margin: 0 0 1em 0;
+    margin-bottom: 1em;
     letter-spacing: -0.035em;
 }
 
@@ -355,6 +355,19 @@ h6 {
 
 .subject {
     margin: 1.75em 0em 1em 3em;
+}
+
+h1.genres_title {
+    font-size: 2.5em;
+    font-weight: 700;
+    line-height: 1.3;
+    margin: 0;
+}
+p.genres_subtitle {
+    font-size: 1em;
+    line-height: 1.3;
+    margin: .5em 0 2.5em 0;
+    letter-spacing: -0.035em;
 }
 
 p {

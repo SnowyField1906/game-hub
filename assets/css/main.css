@@ -164,7 +164,7 @@ input, select, textarea {
 		font-size: 2.75em;
 		font-weight: 700;
 		line-height: 1.3;
-		margin: 0 0 1em 0;
+		margin-bottom: 1em;
 		letter-spacing: -0.035em;
 	}
 
@@ -176,7 +176,6 @@ input, select, textarea {
 
 			h1 {
 				font-size: 2em;
-				margin: 0 0 1em 0;
 			}
 
 		}
@@ -257,6 +256,8 @@ input, select, textarea {
 	.center {
 		text-align: center;
 	}
+	
+
 
 
 	sub {
